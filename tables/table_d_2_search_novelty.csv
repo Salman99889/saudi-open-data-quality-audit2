@@ -1,0 +1,7 @@
+Database,Total hits,Relevant,Notes
+Scopus,31,2,Karamanou et al. (2022); Samakit et al. (2023). Neither classifies missingness by publishing practice nor tests the open/AI-ready separation computationally
+Web of Science,19,1,Karamanou et al. (2022); duplicate
+IEEE Xplore,14,1,Samakit et al. (2023); duplicate
+ACM Digital Library,22,1,Neumaier et al. (2016); metadata layer only
+Google Scholar,88,3,The three above; no additional unsupervised content-layer OGD audit returned
+Total (deduplicated),174,3,"No study applies unsupervised anomaly detection to OGD content and maps the result to a national data-governance standard. The open/AI-ready distinction is argued in the practitioner literature (BPC, 2024; ODI, 2025) but is not given a computational test; no study classifies missingness by the publishing practice that produced it"

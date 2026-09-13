@@ -1,7 +1,5 @@
 # Imtethal Audit Tool
 
-*Saudi OGD AI-Readiness Audit — Companion artefact for the MSc dissertation
-
 
 ## Pipeline
 

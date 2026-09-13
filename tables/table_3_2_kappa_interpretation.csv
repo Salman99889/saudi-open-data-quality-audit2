@@ -1,0 +1,7 @@
+Cohen’s κ range,Landis & Koch (1977) label,Inferential weight
+< 0.00,Poor,Diagnostic of disagreement; treat outputs as independent
+0.00 – 0.20,Slight,Weak corroboration; single-algorithm claim only
+0.21 – 0.40,Fair,Partial corroboration; consensus stratum required
+0.41 – 0.60,Moderate (observed mean = 0.521),Defensible portfolio-level inference; rank claims preferred to absolute claims
+0.61 – 0.80,Substantial,Strong corroboration; absolute claims defensible
+0.81 – 1.00,Almost perfect,Near-substitutability of algorithms; single-algorithm claim sufficient

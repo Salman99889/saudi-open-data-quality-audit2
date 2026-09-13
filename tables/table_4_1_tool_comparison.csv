@@ -1,0 +1,7 @@
+Axis,This artefact,QUALYST (Thailand),data.europa.eu MQA,Open Data Portal Watch,Great Expectations / Deequ
+Layer inspected,Dataset content + metadata,Content + metadata,Metadata only,Metadata only,Content only
+Detection paradigm,"Unsupervised ML (IF, DBSCAN, k-means)",Rule-based,Rule-based (DCAT-AP conformance),Rule-based,Declarative constraints stated by the analyst
+Regulatory mapping,"Yes — NDMO Domain 3, six specifications",Yes — Thai OGD standard,Yes — DCAT-AP,No,No
+Scope,"1 portal, 4 sectors, 31 datasets",1 portal,"All EU member-state catalogues, continuous","261 portals, 1.1m datasets",Any tabular source
+Redeployable,Yes — pinned Python package + dashboard,Yes — deployed system,"Public service, not redeployable",Yes — framework,Yes — libraries
+Licence / availability,Open source (Appendix F),Not publicly released,Public web service,GPL-3.0,Apache 2.0

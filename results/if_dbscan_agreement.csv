@@ -1,0 +1,15 @@
+applicable,kappa,jaccard,if_anom_count,dbscan_noise_count,overlap,n_records,dataset_id,sector,kappa_interp
+True,0.0,0.0,2,0,0,29,INV-01,Investment,slight
+True,0.6985932062153817,0.56,28,50,28,559,INV-09,Investment,substantial
+True,0.6060835909741129,0.4611872146118721,116,204,101,2315,INV-11,Investment,substantial
+True,0.0,0.0,164,0,0,3273,INV-12,Investment,slight
+True,0.3289332224552737,0.2205750224618149,1392,1325,491,28038,INV-13,Investment,fair
+True,0.0,0.0,2,0,0,32,HEA-03,Health,slight
+True,0.7242316431285443,0.5894736842105263,56,95,56,1111,EDU-02,Education,substantial
+True,,0.0,0,0,0,3461,EDU-03,Education,almost perfect
+True,1.0,1.0,1,1,1,18,EDU-04,Education,almost perfect
+True,0.9494725152692949,0.9090909090909091,10,11,10,182,EDU-05,Education,almost perfect
+True,0.7072940654218572,0.5698924731182796,106,186,106,2110,EDU-06,Education,substantial
+True,0.5265882975996303,0.3776824034334764,174,147,88,3477,ENE-01,Energy,moderate
+True,0.6542525092445853,0.510556621880998,293,494,266,5852,ENE-02,Energy,substantial
+True,0.579365642517562,0.4330708661417323,75,107,55,1482,ENE-03,Energy,moderate

@@ -1,0 +1,5 @@
+sector,n,completeness_mean,completeness_sd,completeness_min,completeness_max,consistency_mean,consistency_sd,uniqueness_mean,if_anomaly_mean
+Education,6,0.9582,0.102,0.75,1.0,1.0,0.0,1.0,0.0422
+Energy,3,0.9973,0.0047,0.9918,1.0,1.0,0.0,1.0,0.0502
+Health,9,0.8303,0.3427,0.0,1.0,0.8889,0.3333,0.8889,0.0625
+Investment,13,0.9105,0.1876,0.3434,1.0,0.8064,0.3411,0.9913,0.0538

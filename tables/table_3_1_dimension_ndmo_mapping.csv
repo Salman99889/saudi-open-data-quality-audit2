@@ -1,0 +1,6 @@
+Dimension,Metric Formula,Threshold,NDMO Spec,Threshold Source
+Completeness,1 − (Σ null cells / total cells),≥ 95%,3.2,ISO/IEC 25012; Pipino et al. (2002)
+Uniqueness,1 − (duplicate rows / total rows),≥ 99%,3.13,Conservative default; absolute bound on duplicates
+Consistency,Share of columns whose values parse uniformly to inferred type at the 95% rate,≥ 95%,"3.4, 3.5",Vetrò et al. (2016); Behkamal et al. (2014)
+Accuracy,1 − (IF anomaly rate at contamination = 0.05),≥ 95%,3.1,Liu et al. (2012); calibrated against manual inspection
+Timeliness,"1 − min(1, days-since-update / 2 × stated-frequency)",≥ 80%,3.7; Dom. 11,Vetrò et al. (2016); Open Data Strategy

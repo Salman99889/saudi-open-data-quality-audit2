@@ -1,0 +1,32 @@
+dataset_id,sector,file_name,completeness,consistency,uniqueness,accuracy,timeliness,three_dim_composite,full_composite,drl_band,if_applicable,if_anomaly_rate,db_applicable,db_noise_rate,rows,cols,total_cells,n_nulls
+INV-01,Investment,Consolidated SoFP Data 2024 and 2023 CSV.csv,1.0,1.0,1.0,0.9310344827586207,1.0,1.0,0.9862068965517242,Band A,True,0.06896551724137931,True,0.0,29,5,145,0
+INV-02,Investment,Contact Person on GOV CSV.csv,0.75,1.0,1.0,,1.0,0.9166666666666666,0.9375,Band A,False,,False,,95,4,380,95
+INV-03,Investment,Establishments and Workers in Private Sector 2023.csv,0.34336576735957536,1.0,0.9977885891198585,,1.0,0.7803847854931446,0.8352885891198585,Band B,False,,False,,4522,20,90440,59386
+INV-04,Investment,Funded Project Tenders for Saudi Companies csv.csv,1.0,1.0,1.0,,1.0,1.0,1.0,Band A,False,,False,,8,4,32,0
+INV-05,Investment,Investors in FinTech ExPermit Companies CSV.csv,1.0,0.5,1.0,,1.0,0.8333333333333334,0.875,Band A,False,,False,,22,4,88,0
+INV-06,Investment,Local and Foreign Investments ofCMA csv.csv,1.0,0.25,1.0,,1.0,0.75,0.8125,Band B,False,,False,,4,4,16,0
+INV-07,Investment,Number of Deeds and Total Area in Tabuk Region CSV.csv,1.0,1.0,1.0,,1.0,1.0,1.0,Band A,False,,False,,7,2,14,0
+INV-08,Investment,PIF AUM Asset Class Breakdown 2024 CSV.csv,1.0,1.0,1.0,,1.0,1.0,1.0,Band A,False,,False,,7,3,21,0
+INV-09,Investment,SME Support Beneficiaries Statistics 2025 CSV.csv,0.8752236135957067,1.0,1.0,0.9499105545617174,1.0,0.958407871198569,0.9650268336314849,Band A,True,0.05008944543828265,True,0.08944543828264759,559,8,4472,558
+INV-10,Investment,Total Debt By Sector Main Market CSV.csv,1.0,0.0,0.8888888888888888,,1.0,0.6296296296296297,0.7222222222222222,Band B,False,,False,,27,24,648,0
+INV-11,Investment,pos-transactions.csv,0.8676025917926566,1.0,1.0,0.9498920086393089,1.0,0.9558675305975521,0.963498920086393,Band A,True,0.05010799136069115,True,0.08812095032397409,2315,8,18520,2452
+INV-12,Investment,private sector companies csv.csv,0.9998981566350952,1.0,1.0,0.94989306446685,1.0,0.9999660522116983,0.989958244220389,Band A,True,0.050106935533150015,True,0.0,3273,3,9819,1
+INV-13,Investment,trademarks registered in 2023 CSV.csv,0.9998716028247379,0.7333333333333333,1.0,0.950353092231971,1.0,0.9110683120526905,0.9367116056780084,Band A,True,0.0496469077680291,True,0.04725729367287253,28038,15,420570,54
+HEA-01,Health,Births at KSA Hospitals by Type of Delivery.csv,0.0,0.0,0.0,,1.0,0.0,0.25,Band C,False,,False,,0,1,0,0
+HEA-02,Health,Classified Physical Therapy Specialists 2025.csv,1.0,1.0,1.0,,1.0,1.0,1.0,Band A,False,,False,,28,7,196,0
+HEA-03,Health,Health Manpower in KSA Health Sectors Five Years.csv,1.0,1.0,1.0,0.9375,1.0,1.0,0.9875,Band A,True,0.0625,True,0.0,32,16,512,0
+HEA-04,Health,Health Manpower in KSA Health Sectors-2.csv,1.0,1.0,1.0,,1.0,1.0,1.0,Band A,False,,False,,33,18,594,0
+HEA-05,Health,Health Manpower in KSA Health Sectors.csv,1.0,1.0,1.0,,1.0,1.0,1.0,Band A,False,,False,,25,14,350,0
+HEA-06,Health,Hospitals and Beds in All Health Sectors.csv,0.5634920634920635,1.0,1.0,,1.0,0.8544973544973544,0.8908730158730158,Band A,False,,False,,6,21,126,55
+HEA-07,Health,Inpatients in Health Sectors Hospitals  KSA.csv,1.0,1.0,1.0,,1.0,1.0,1.0,Band A,False,,False,,5,6,30,0
+HEA-08,Health,Inpatients in Health Sectors Hospitals KSA.csv,1.0,1.0,1.0,,1.0,1.0,1.0,Band A,False,,False,,5,6,30,0
+HEA-09,Health,Pilgrims From Inside and Outside the Kingdom.csv,0.9090909090909091,1.0,1.0,,1.0,0.9696969696969697,0.9772727272727273,Band A,False,,False,,11,7,77,7
+EDU-01,Education,Accepted in technical colleges across.csv,0.75,1.0,1.0,,1.0,0.9166666666666666,0.9375,Band A,False,,False,,14,4,56,14
+EDU-02,Education,General Aptitude Test csv.csv,1.0,1.0,1.0,0.9495949594959496,1.0,1.0,0.98991899189919,Band A,True,0.050405040504050404,True,0.0855085508550855,1111,7,7777,0
+EDU-03,Education,Names of Private education Schools Foreign csv.csv,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Band A,True,0.0,True,0.0,3461,7,24227,0
+EDU-04,Education,Number of Students Identified as Gifted.csv,1.0,1.0,1.0,0.9444444444444444,1.0,1.0,0.9888888888888889,Band A,True,0.05555555555555555,True,0.05555555555555555,18,7,126,0
+EDU-05,Education,Total graduates by gender and nationality.csv,1.0,1.0,1.0,0.945054945054945,1.0,1.0,0.989010989010989,Band A,True,0.054945054945054944,True,0.06043956043956044,182,7,1274,0
+EDU-06,Education,Total students.csv,0.9993680884676145,1.0,1.0,0.9497630331753555,1.0,0.9997893628225382,0.989826224328594,Band A,True,0.05023696682464455,True,0.0881516587677725,2110,12,25320,16
+ENE-01,Energy,oil-production-in-kbd.csv,0.9918032786885246,1.0,1.0,0.9499568593615185,1.0,0.9972677595628415,0.9883520276100086,Band A,True,0.05004314063848145,True,0.04227782571182054,3477,6,20862,171
+ENE-02,Energy,real-gross-domestic-product-by-kind-of-economic-activity-2023-100.csv,1.0,1.0,1.0,0.9499316473000684,1.0,1.0,0.9899863294600137,Band A,True,0.050068352699931644,True,0.08441558441558442,5852,6,35112,0
+ENE-03,Energy,seasonally-adjusted-real-gross-domestic-product-by-main-economic-activities-2023-100.csv,1.0,1.0,1.0,0.9493927125506073,1.0,1.0,0.9898785425101215,Band A,True,0.05060728744939271,True,0.07219973009446694,1482,6,8892,0

@@ -1,0 +1,7 @@
+specification,name,Education,Education_n,Education_pct_pass,Energy,Energy_n,Energy_pct_pass,Health,Health_n,Health_pct_pass,Investment,Investment_n,Investment_pct_pass
+3.1,Accuracy,borderline,5,20.0,borderline,3,0.0,borderline,1,0.0,borderline,5,20.0
+3.2,Completeness,pass,6,83.3,pass,3,100.0,pass,9,66.7,pass,13,69.2
+3.4,Consistency,pass,6,100.0,pass,3,100.0,pass,9,88.9,pass,13,69.2
+3.5,Validity,pass,6,100.0,pass,3,100.0,pass,9,88.9,pass,13,69.2
+3.7,Currency / Timeliness,pass,6,100.0,pass,3,100.0,pass,9,100.0,pass,13,100.0
+3.13,Uniqueness,pass,6,100.0,pass,3,100.0,pass,9,88.9,pass,13,92.3

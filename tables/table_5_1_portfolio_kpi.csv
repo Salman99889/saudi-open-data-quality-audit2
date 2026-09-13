@@ -1,0 +1,14 @@
+KPI,Value,Threshold,Verdict,NDMO Spec
+Datasets audited,31,—,—,—
+Total rows ingested,"56,758",—,—,—
+Total cells inspected,"670,726",—,—,—
+Portfolio completeness (cells-weighted),90.64%,≥ 95%,Fail,3.2
+Mean per-dataset completeness,90.48% (SD 22.42),≥ 95%,Borderline,3.2
+Datasets meeting 95% completeness,23 of 31 (74.2%),≥ 95%,Fail,3.2
+Mean per-dataset consistency,88.66% (SD 28.78),≥ 95%,Borderline,3.4
+Datasets meeting 95% consistency,26 of 31 (83.9%),≥ 90%,Borderline,3.4
+Mean per-dataset uniqueness,96.41%,≥ 99%,Borderline,3.13
+Datasets with < 1% duplicates,29 of 31 (93.5%),≥ 95%,Borderline,3.13
+Mean IF anomaly rate (14 applicable datasets),4.95%,≤ 5%,Pass,3.1
+Mean Cohen’s κ (IF vs DBSCAN),0.521 (moderate),—,—,—
+Portfolio DRL distribution (Band A / B / C),27 / 3 / 1 (87.1 / 9.7 / 3.2%),—,—,—

@@ -1,0 +1,5 @@
+specification,dimensions,n,band_a,band_b,band_c,pct_band_a
+as_reported_available_dims,available,31,27,3,1,87.1
+completeness_consistency,completeness+consistency,31,25,2,4,80.6
+completeness_consistency_uniqueness,completeness+consistency+uniqueness,31,26,3,2,83.9
+excl_timeliness_incl_accuracy,completeness+consistency+uniqueness+accuracy,31,26,3,2,83.9

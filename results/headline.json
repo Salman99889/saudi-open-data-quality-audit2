@@ -1,0 +1,121 @@
+{
+  "audit_date": "2026-06-03T00:00:00",
+  "n_datasets": 31,
+  "portfolio_total_rows": 56758,
+  "portfolio_total_cells": 670726,
+  "portfolio_completeness_aggregate": 0.9063566940896879,
+  "mean_per_dataset_completeness": 0.9048295507079641,
+  "sd_per_dataset_completeness": 0.22415457037962358,
+  "datasets_meeting_95pct_completeness": 23,
+  "mean_per_dataset_consistency": 0.8865591397849463,
+  "sd_per_dataset_consistency": 0.2877891253073355,
+  "datasets_meeting_95pct_consistency": 26,
+  "mean_per_dataset_uniqueness": 0.9640863702583468,
+  "datasets_lt_1pct_duplicates": 29,
+  "if_applicable_count": 14,
+  "mean_if_anomaly_rate": 0.0495198711399031,
+  "db_applicable_count": 14,
+  "mean_db_noise_rate": 0.05095515343709572,
+  "drl_band_distribution": {
+    "Band A": 27,
+    "Band B": 3,
+    "Band C": 1
+  },
+  "if_sweep_spearman": {
+    "0.02": 0.8021978021978022,
+    "0.05": 1.0,
+    "0.075": 0.9780219780219781,
+    "0.1": 0.7758241758241758,
+    "0.15": 0.8241758241758241
+  },
+  "mean_if_dbscan_kappa": 0.5211395917558648,
+  "mean_if_dbscan_jaccard": 0.40225208535354345,
+  "band_sensitivity": [
+    {
+      "specification": "as_reported_available_dims",
+      "dimensions": "available",
+      "n": 31,
+      "band_a": 27,
+      "band_b": 3,
+      "band_c": 1,
+      "pct_band_a": 87.1
+    },
+    {
+      "specification": "completeness_consistency",
+      "dimensions": "completeness+consistency",
+      "n": 31,
+      "band_a": 25,
+      "band_b": 2,
+      "band_c": 4,
+      "pct_band_a": 80.6
+    },
+    {
+      "specification": "completeness_consistency_uniqueness",
+      "dimensions": "completeness+consistency+uniqueness",
+      "n": 31,
+      "band_a": 26,
+      "band_b": 3,
+      "band_c": 2,
+      "pct_band_a": 83.9
+    },
+    {
+      "specification": "excl_timeliness_incl_accuracy",
+      "dimensions": "completeness+consistency+uniqueness+accuracy",
+      "n": 31,
+      "band_a": 26,
+      "band_b": 3,
+      "band_c": 2,
+      "pct_band_a": 83.9
+    }
+  ],
+  "band_a_share_range_pct": [
+    80.6,
+    87.1
+  ],
+  "sector_summary": {
+    "Education": {
+      "n": 6,
+      "completeness_mean": 0.9582,
+      "completeness_sd": 0.102,
+      "completeness_min": 0.75,
+      "completeness_max": 1.0,
+      "consistency_mean": 1.0,
+      "consistency_sd": 0.0,
+      "uniqueness_mean": 1.0,
+      "if_anomaly_mean": 0.0422
+    },
+    "Energy": {
+      "n": 3,
+      "completeness_mean": 0.9973,
+      "completeness_sd": 0.0047,
+      "completeness_min": 0.9918,
+      "completeness_max": 1.0,
+      "consistency_mean": 1.0,
+      "consistency_sd": 0.0,
+      "uniqueness_mean": 1.0,
+      "if_anomaly_mean": 0.0502
+    },
+    "Health": {
+      "n": 9,
+      "completeness_mean": 0.8303,
+      "completeness_sd": 0.3427,
+      "completeness_min": 0.0,
+      "completeness_max": 1.0,
+      "consistency_mean": 0.8889,
+      "consistency_sd": 0.3333,
+      "uniqueness_mean": 0.8889,
+      "if_anomaly_mean": 0.0625
+    },
+    "Investment": {
+      "n": 13,
+      "completeness_mean": 0.9105,
+      "completeness_sd": 0.1876,
+      "completeness_min": 0.3434,
+      "completeness_max": 1.0,
+      "consistency_mean": 0.8064,
+      "consistency_sd": 0.3411,
+      "uniqueness_mean": 0.9913,
+      "if_anomaly_mean": 0.0538
+    }
+  }
+}

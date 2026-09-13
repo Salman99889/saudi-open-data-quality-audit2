@@ -1,0 +1,1483 @@
+﻿Year;Quarter;Unit;Economic Activity;GDP;Date
+2010;Q1;Index;Oil Activities;78.0;2010-03
+2010;Q2;Index;Government Activities;68.9;2010-06
+2010;Q3;Index;Government Activities;71.3;2010-09
+2010;Q4;Index;Oil Activities;92.4;2010-12
+2010;Q4;Index;Non-Oil Activities;48.3;2010-12
+2010;Q4;Index;Gross Value Added;65.2;2010-12
+2010;Q4;Index;Net Taxes on Products;68.3;2010-12
+2011;Q1;Index;Oil Activities;88.4;2011-03
+2011;Q1;Index;Government Activities;75.3;2011-03
+2011;Q2;Index;Net Taxes on Products;77.8;2011-06
+2011;Q3;Index;Government Activities;74.9;2011-09
+2011;Q3;Index;Gross Value Added;68.5;2011-09
+2011;Q3;Index;Net Taxes on Products;83.2;2011-09
+2012;Q1;Index;Non-Oil Activities;55.3;2012-03
+2012;Q1;Index;Government Activities;77.1;2012-03
+2012;Q1;Index;Gross Value Added;71.9;2012-03
+2012;Q2;Index;Gross Value Added;72.1;2012-06
+2012;Q3;Index;Government Activities;84.8;2012-09
+2013;Q1;Index;Non-Oil Activities;59.8;2013-03
+2013;Q1;Index;Gross Value Added;71.9;2013-03
+2013;Q2;Index;Gross Value Added;73.4;2013-06
+2013;Q2;Index;Net Taxes on Products;96.2;2013-06
+2013;Q2;Index;Gross Domestic Product;73.3;2013-06
+2013;Q3;Index;Gross Value Added;75.1;2013-09
+2013;Q4;Index;Non-Oil Activities;62.5;2013-12
+2014;Q2;Index;Non-Oil Activities;64.8;2014-06
+2014;Q2;Index;Net Taxes on Products;86.3;2014-06
+2014;Q4;Index;Oil Activities;95.9;2014-12
+2015;Q2;Index;Non-Oil Activities;67.6;2015-06
+2015;Q4;Index;Net Taxes on Products;94.1;2015-12
+2016;Q1;Index;Government Activities;90.0;2016-03
+2016;Q2;Index;Gross Value Added;81.8;2016-06
+2017;Q1;Index;Non-Oil Activities;70.6;2017-03
+2017;Q3;Index;Government Activities;90.2;2017-09
+2017;Q3;Index;Gross Value Added;83.5;2017-09
+2018;Q1;Index;Gross Value Added;84.4;2018-03
+2018;Q1;Index;Net Taxes on Products;72.3;2018-03
+2018;Q3;Index;Non-Oil Activities;74.6;2018-09
+2018;Q3;Index;Gross Value Added;85.9;2018-09
+2018;Q4;Index;Net Taxes on Products;78.1;2018-12
+2019;Q2;Index;Government Activities;94.5;2019-06
+2019;Q2;Index;Gross Value Added;86.8;2019-06
+2019;Q2;Index;Net Taxes on Products;84.2;2019-06
+2019;Q3;Index;Gross Value Added;86.4;2019-09
+2019;Q3;Index;Gross Domestic Product;86.2;2019-09
+2020;Q1;Index;Oil Activities;99.0;2020-03
+2020;Q4;Index;Non-Oil Activities;77.8;2020-12
+2021;Q1;Index;Non-Oil Activities;80.5;2021-03
+2021;Q1;Index;Gross Value Added;86.2;2021-03
+2021;Q1;Index;Gross Domestic Product;85.9;2021-03
+2021;Q2;Index;Government Activities;93.1;2021-06
+2021;Q3;Index;Non-Oil Activities;84.1;2021-09
+2021;Q3;Index;Net Taxes on Products;81.7;2021-09
+2021;Q4;Index;Oil Activities;104.0;2021-12
+2021;Q4;Index;Gross Domestic Product;92.4;2021-12
+2022;Q1;Index;Government Activities;97.8;2022-03
+2022;Q4;Index;Oil Activities;109.7;2022-12
+2022;Q4;Index;Government Activities;99.9;2022-12
+2023;Q1;Index;Oil Activities;107.9;2023-03
+2023;Q1;Index;Government Activities;99.6;2023-03
+2023;Q2;Index;Government Activities;98.8;2023-06
+2023;Q3;Index;Government Activities;100.0;2023-09
+2023;Q4;Index;Oil Activities;92.2;2023-12
+2023;Q4;Index;Non-Oil Activities;102.1;2023-12
+2024;Q2;Index;Government Activities;103.6;2024-06
+2024;Q3;Index;Non-Oil Activities;106.5;2024-09
+2024;Q3;Index;Gross Domestic Product;103.1;2024-09
+2024;Q4;Index;Government Activities;104.5;2024-12
+2024;Q4;Index;Gross Domestic Product;104.1;2024-12
+2025;Q1;Index;Government Activities;104.7;2025-03
+2025;Q1;Index;Gross Domestic Product;104.7;2025-03
+2025;Q2;Index;Oil Activities;100.2;2025-06
+2025;Q2;Index;Gross Domestic Product;106.7;2025-06
+2025;Q3;Index;Oil Activities;103.5;2025-09
+2025;Q3;Index;Gross Value Added;107.9;2025-09
+2010;Q2;Million of Saudi Riyals;Oil Activities;256855.0;2010-06
+2010;Q4;Million of Saudi Riyals;Non-Oil Activities;293481.0;2010-12
+2010;Q4;Million of Saudi Riyals;Net Taxes on Products;40421.0;2010-12
+2010;Q4;Million of Saudi Riyals;Gross Domestic Product;741909.0;2010-12
+2011;Q1;Million of Saudi Riyals;Government Activities;117107.0;2011-03
+2011;Q3;Million of Saudi Riyals;Government Activities;116470.0;2011-09
+2011;Q4;Million of Saudi Riyals;Oil Activities;305714.0;2011-12
+2011;Q4;Million of Saudi Riyals;Net Taxes on Products;45719.0;2011-12
+2011;Q4;Million of Saudi Riyals;Gross Domestic Product;798561.0;2011-12
+2012;Q2;Million of Saudi Riyals;Net Taxes on Products;55043.0;2012-06
+2012;Q3;Million of Saudi Riyals;Net Taxes on Products;51793.0;2012-09
+2012;Q3;Million of Saudi Riyals;Gross Domestic Product;820184.0;2012-09
+2012;Q4;Million of Saudi Riyals;Oil Activities;296943.0;2012-12
+2012;Q4;Million of Saudi Riyals;Government Activities;127022.0;2012-12
+2012;Q4;Million of Saudi Riyals;Gross Value Added;770618.0;2012-12
+2013;Q1;Million of Saudi Riyals;Government Activities;129509.0;2013-03
+2013;Q1;Million of Saudi Riyals;Gross Value Added;778922.0;2013-03
+2013;Q3;Million of Saudi Riyals;Gross Value Added;813513.0;2013-09
+2013;Q3;Million of Saudi Riyals;Gross Domestic Product;855967.0;2013-09
+2013;Q4;Million of Saudi Riyals;Net Taxes on Products;54642.0;2013-12
+2014;Q2;Million of Saudi Riyals;Government Activities;134968.0;2014-06
+2014;Q2;Million of Saudi Riyals;Gross Value Added;829853.0;2014-06
+2014;Q3;Million of Saudi Riyals;Non-Oil Activities;399279.0;2014-09
+2015;Q2;Million of Saudi Riyals;Non-Oil Activities;411078.0;2015-06
+2015;Q4;Million of Saudi Riyals;Oil Activities;326272.0;2015-12
+2015;Q4;Million of Saudi Riyals;Government Activities;136728.0;2015-12
+2015;Q4;Million of Saudi Riyals;Net Taxes on Products;55699.0;2015-12
+2016;Q3;Million of Saudi Riyals;Gross Value Added;886875.0;2016-09
+2016;Q4;Million of Saudi Riyals;Oil Activities;340371.0;2016-12
+2017;Q1;Million of Saudi Riyals;Gross Value Added;888748.0;2017-03
+2017;Q2;Million of Saudi Riyals;Non-Oil Activities;433011.0;2017-06
+2017;Q4;Million of Saudi Riyals;Non-Oil Activities;445947.0;2017-12
+2017;Q4;Million of Saudi Riyals;Gross Value Added;912076.0;2017-12
+2018;Q1;Million of Saudi Riyals;Non-Oil Activities;444653.0;2018-03
+2018;Q2;Million of Saudi Riyals;Net Taxes on Products;46922.0;2018-06
+2018;Q3;Million of Saudi Riyals;Non-Oil Activities;453733.0;2018-09
+2018;Q3;Million of Saudi Riyals;Net Taxes on Products;40861.0;2018-09
+2018;Q4;Million of Saudi Riyals;Net Taxes on Products;46254.0;2018-12
+2019;Q1;Million of Saudi Riyals;Non-Oil Activities;467520.0;2019-03
+2019;Q2;Million of Saudi Riyals;Net Taxes on Products;49877.0;2019-06
+2019;Q3;Million of Saudi Riyals;Gross Domestic Product;984230.0;2019-09
+2019;Q4;Million of Saudi Riyals;Oil Activities;325800.0;2019-12
+2020;Q1;Million of Saudi Riyals;Government Activities;144893.0;2020-03
+2020;Q1;Million of Saudi Riyals;Net Taxes on Products;49058.0;2020-03
+2020;Q2;Million of Saudi Riyals;Net Taxes on Products;41706.0;2020-06
+2020;Q3;Million of Saudi Riyals;Oil Activities;288298.0;2020-09
+2020;Q3;Million of Saudi Riyals;Gross Value Added;901465.0;2020-09
+2021;Q1;Million of Saudi Riyals;Non-Oil Activities;489221.0;2021-03
+2021;Q1;Million of Saudi Riyals;Gross Value Added;933248.0;2021-03
+2021;Q3;Million of Saudi Riyals;Oil Activities;318676.0;2021-09
+2021;Q3;Million of Saudi Riyals;Government Activities;148489.0;2021-09
+2021;Q3;Million of Saudi Riyals;Gross Value Added;981941.0;2021-09
+2021;Q4;Million of Saudi Riyals;Net Taxes on Products;50812.0;2021-12
+2022;Q1;Million of Saudi Riyals;Oil Activities;343614.0;2022-03
+2022;Q1;Million of Saudi Riyals;Non-Oil Activities;542748.0;2022-03
+2022;Q1;Million of Saudi Riyals;Gross Domestic Product;1100384.0;2022-03
+2022;Q2;Million of Saudi Riyals;Oil Activities;351003.0;2022-06
+2022;Q3;Million of Saudi Riyals;Oil Activities;360997.0;2022-09
+2022;Q3;Million of Saudi Riyals;Gross Value Added;1100312.0;2022-09
+2022;Q4;Million of Saudi Riyals;Oil Activities;351003.0;2022-12
+2022;Q4;Million of Saudi Riyals;Gross Domestic Product;1159621.0;2022-12
+2023;Q3;Million of Saudi Riyals;Oil Activities;301783.0;2023-09
+2023;Q4;Million of Saudi Riyals;Gross Value Added;1069104.0;2023-12
+2024;Q2;Million of Saudi Riyals;Gross Value Added;1107926.0;2024-06
+2024;Q3;Million of Saudi Riyals;Gross Value Added;1114625.0;2024-09
+2024;Q3;Million of Saudi Riyals;Gross Domestic Product;1177467.0;2024-09
+2024;Q4;Million of Saudi Riyals;Net Taxes on Products;63352.0;2024-12
+2025;Q1;Million of Saudi Riyals;Gross Value Added;1133144.0;2025-03
+2025;Q2;Million of Saudi Riyals;Non-Oil Activities;674108.0;2025-06
+2025;Q3;Million of Saudi Riyals;Oil Activities;331051.0;2025-09
+2010;Q2;Growth Rates Q-o-Q;Oil Activities;3.02;2010-06
+2010;Q3;Growth Rates Q-o-Q;Government Activities;3.44;2010-09
+2010;Q3;Growth Rates Q-o-Q;Gross Value Added;-0.15;2010-09
+2010;Q4;Growth Rates Q-o-Q;Non-Oil Activities;0.57;2010-12
+2010;Q4;Growth Rates Q-o-Q;Government Activities;3.39;2010-12
+2011;Q3;Growth Rates Q-o-Q;Oil Activities;3.11;2011-09
+2011;Q3;Growth Rates Q-o-Q;Gross Value Added;1.53;2011-09
+2011;Q4;Growth Rates Q-o-Q;Non-Oil Activities;2.03;2011-12
+2012;Q2;Growth Rates Q-o-Q;Net Taxes on Products;6.8;2012-06
+2012;Q2;Growth Rates Q-o-Q;Gross Domestic Product;0.41;2012-06
+2012;Q4;Growth Rates Q-o-Q;Government Activities;-3.6;2012-12
+2012;Q4;Growth Rates Q-o-Q;Net Taxes on Products;0.06;2012-12
+2013;Q1;Growth Rates Q-o-Q;Net Taxes on Products;2.6;2013-03
+2013;Q2;Growth Rates Q-o-Q;Government Activities;3.16;2013-06
+2013;Q2;Growth Rates Q-o-Q;Gross Value Added;2.13;2013-06
+2014;Q2;Growth Rates Q-o-Q;Net Taxes on Products;-5.87;2014-06
+2014;Q3;Growth Rates Q-o-Q;Oil Activities;-0.76;2014-09
+2014;Q4;Growth Rates Q-o-Q;Gross Value Added;0.23;2014-12
+2014;Q4;Growth Rates Q-o-Q;Net Taxes on Products;-6.61;2014-12
+2015;Q1;Growth Rates Q-o-Q;Non-Oil Activities;2.16;2015-03
+2015;Q3;Growth Rates Q-o-Q;Non-Oil Activities;1.94;2015-09
+2015;Q3;Growth Rates Q-o-Q;Government Activities;0.71;2015-09
+2015;Q4;Growth Rates Q-o-Q;Non-Oil Activities;0.52;2015-12
+2015;Q4;Growth Rates Q-o-Q;Gross Value Added;0.1;2015-12
+2016;Q1;Growth Rates Q-o-Q;Oil Activities;3.45;2016-03
+2016;Q1;Growth Rates Q-o-Q;Gross Value Added;1.36;2016-03
+2016;Q2;Growth Rates Q-o-Q;Gross Value Added;-0.12;2016-06
+2016;Q2;Growth Rates Q-o-Q;Gross Domestic Product;-0.14;2016-06
+2016;Q3;Growth Rates Q-o-Q;Government Activities;-1.18;2016-09
+2017;Q2;Growth Rates Q-o-Q;Government Activities;0.01;2017-06
+2017;Q2;Growth Rates Q-o-Q;Net Taxes on Products;12.15;2017-06
+2017;Q4;Growth Rates Q-o-Q;Government Activities;0.86;2017-12
+2018;Q1;Growth Rates Q-o-Q;Non-Oil Activities;-0.29;2018-03
+2018;Q1;Growth Rates Q-o-Q;Government Activities;0.65;2018-03
+2018;Q2;Growth Rates Q-o-Q;Non-Oil Activities;1.16;2018-06
+2018;Q3;Growth Rates Q-o-Q;Non-Oil Activities;0.87;2018-09
+2018;Q4;Growth Rates Q-o-Q;Oil Activities;2.34;2018-12
+2019;Q1;Growth Rates Q-o-Q;Non-Oil Activities;2.51;2019-03
+2019;Q2;Growth Rates Q-o-Q;Non-Oil Activities;1.24;2019-06
+2019;Q2;Growth Rates Q-o-Q;Net Taxes on Products;2.47;2019-06
+2019;Q3;Growth Rates Q-o-Q;Government Activities;-0.15;2019-09
+2020;Q1;Growth Rates Q-o-Q;Gross Value Added;-2.21;2020-03
+2020;Q3;Growth Rates Q-o-Q;Oil Activities;-5.47;2020-09
+2020;Q3;Growth Rates Q-o-Q;Non-Oil Activities;7.95;2020-09
+2020;Q3;Growth Rates Q-o-Q;Gross Domestic Product;2.53;2020-09
+2021;Q4;Growth Rates Q-o-Q;Non-Oil Activities;2.55;2021-12
+2021;Q4;Growth Rates Q-o-Q;Government Activities;-0.09;2021-12
+2022;Q4;Growth Rates Q-o-Q;Government Activities;0.64;2022-12
+2022;Q4;Growth Rates Q-o-Q;Gross Value Added;0.28;2022-12
+2023;Q1;Growth Rates Q-o-Q;Non-Oil Activities;1.19;2023-03
+2023;Q1;Growth Rates Q-o-Q;Net Taxes on Products;5.4;2023-03
+2023;Q2;Growth Rates Q-o-Q;Gross Domestic Product;-0.38;2023-06
+2023;Q4;Growth Rates Q-o-Q;Non-Oil Activities;1.57;2023-12
+2023;Q4;Growth Rates Q-o-Q;Net Taxes on Products;-0.84;2023-12
+2024;Q2;Growth Rates Q-o-Q;Oil Activities;0.25;2024-06
+2024;Q3;Growth Rates Q-o-Q;Government Activities;0.4;2024-09
+2024;Q3;Growth Rates Q-o-Q;Net Taxes on Products;3.98;2024-09
+2024;Q4;Growth Rates Q-o-Q;Oil Activities;-0.27;2024-12
+2024;Q4;Growth Rates Q-o-Q;Net Taxes on Products;0.81;2024-12
+2025;Q1;Growth Rates Q-o-Q;Oil Activities;-0.39;2025-03
+2025;Q1;Growth Rates Q-o-Q;Gross Domestic Product;0.6;2025-03
+2025;Q3;Growth Rates Q-o-Q;Gross Value Added;1.18;2025-09
+2025;Q4;Growth Rates Q-o-Q;Oil Activities;1.81;2025-12
+2012;Q1;Contribution to Growth rate in GDP Q-o-Q;Non-Oil Activities;0.46;2012-03
+2012;Q1;Contribution to Growth rate in GDP Q-o-Q;Gross Value Added;2.48;2012-03
+2012;Q1;Contribution to Growth rate in GDP Q-o-Q;Gross Domestic Product;2.56;2012-03
+2013;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.07;2013-03
+2013;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;2.17;2013-06
+2013;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.7;2013-09
+2013;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.04;2013-09
+2013;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.53;2013-12
+2013;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-0.03;2013-12
+2013;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.01;2013-12
+2014;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.87;2014-06
+2014;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-0.25;2014-06
+2014;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.12;2014-12
+2014;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.23;2014-12
+2014;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.18;2014-12
+2015;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.29;2015-06
+2015;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.01;2015-09
+2015;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.04;2015-12
+2016;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-0.12;2016-06
+2016;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-0.14;2016-06
+2016;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.31;2016-12
+2017;Q1;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.26;2017-03
+2017;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.13;2017-06
+2017;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.28;2017-09
+2017;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.27;2017-09
+2017;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.02;2017-12
+2018;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.29;2018-03
+2018;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.2;2018-06
+2018;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.64;2018-06
+2018;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.19;2018-06
+2018;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.27;2018-06
+2018;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.39;2018-09
+2018;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.53;2018-09
+2018;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.41;2018-12
+2019;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.6;2019-06
+2019;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.69;2019-09
+2019;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.0;2019-09
+2020;Q1;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.17;2020-03
+2020;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.86;2020-12
+2021;Q1;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.14;2021-03
+2021;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.6;2021-03
+2021;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;1.51;2021-12
+2021;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.21;2021-12
+2021;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;2.49;2021-12
+2022;Q1;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.48;2022-03
+2022;Q1;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.47;2022-03
+2022;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.14;2022-06
+2022;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.09;2022-12
+2022;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.07;2022-12
+2023;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-3.52;2023-09
+2023;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.16;2023-09
+2023;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-2.62;2023-09
+2024;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.07;2024-06
+2024;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.78;2024-06
+2024;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.21;2024-09
+2024;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.78;2024-09
+2024;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.97;2024-12
+2024;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.04;2024-12
+2025;Q1;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.03;2025-03
+2025;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.88;2025-06
+2025;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.46;2025-12
+2025;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.05;2025-12
+2010;Q2;Index;Oil Activities;80.3;2010-06
+2010;Q2;Index;Non-Oil Activities;46.7;2010-06
+2010;Q3;Index;Non-Oil Activities;48.0;2010-09
+2010;Q4;Index;Government Activities;73.7;2010-12
+2010;Q4;Index;Gross Domestic Product;64.9;2010-12
+2011;Q1;Index;Net Taxes on Products;64.5;2011-03
+2011;Q1;Index;Gross Domestic Product;65.3;2011-03
+2011;Q2;Index;Non-Oil Activities;52.9;2011-06
+2011;Q4;Index;Non-Oil Activities;54.7;2011-12
+2011;Q4;Index;Gross Value Added;70.1;2011-12
+2011;Q4;Index;Net Taxes on Products;77.2;2011-12
+2012;Q3;Index;Oil Activities;95.5;2012-09
+2012;Q3;Index;Gross Domestic Product;71.8;2012-09
+2013;Q1;Index;Gross Domestic Product;71.8;2013-03
+2013;Q2;Index;Oil Activities;94.2;2013-06
+2013;Q3;Index;Oil Activities;98.5;2013-09
+2013;Q4;Index;Government Activities;85.8;2013-12
+2013;Q4;Index;Gross Domestic Product;74.9;2013-12
+2014;Q1;Index;Gross Value Added;76.8;2014-03
+2014;Q1;Index;Net Taxes on Products;91.7;2014-03
+2014;Q3;Index;Government Activities;88.3;2014-09
+2014;Q4;Index;Non-Oil Activities;66.4;2014-12
+2014;Q4;Index;Gross Value Added;77.2;2014-12
+2014;Q4;Index;Gross Domestic Product;77.0;2014-12
+2015;Q1;Index;Oil Activities;99.3;2015-03
+2015;Q2;Index;Government Activities;88.5;2015-06
+2015;Q3;Index;Net Taxes on Products;98.9;2015-09
+2015;Q4;Index;Gross Domestic Product;80.6;2015-12
+2016;Q1;Index;Net Taxes on Products;82.5;2016-03
+2016;Q2;Index;Oil Activities;105.2;2016-06
+2016;Q2;Index;Net Taxes on Products;80.7;2016-06
+2016;Q3;Index;Oil Activities;106.1;2016-09
+2016;Q3;Index;Government Activities;87.7;2016-09
+2016;Q3;Index;Net Taxes on Products;67.0;2016-09
+2016;Q4;Index;Oil Activities;106.4;2016-12
+2016;Q4;Index;Net Taxes on Products;79.6;2016-12
+2017;Q1;Index;Gross Value Added;82.0;2017-03
+2017;Q2;Index;Oil Activities;103.3;2017-06
+2017;Q2;Index;Non-Oil Activities;71.2;2017-06
+2017;Q2;Index;Gross Value Added;82.4;2017-06
+2017;Q2;Index;Net Taxes on Products;79.0;2017-06
+2017;Q3;Index;Oil Activities;102.0;2017-09
+2017;Q4;Index;Oil Activities;101.7;2017-12
+2017;Q4;Index;Gross Domestic Product;83.8;2017-12
+2018;Q2;Index;Non-Oil Activities;74.0;2018-06
+2018;Q2;Index;Government Activities;93.4;2018-06
+2018;Q3;Index;Oil Activities;106.1;2018-09
+2018;Q3;Index;Government Activities;91.3;2018-09
+2018;Q4;Index;Oil Activities;108.6;2018-12
+2019;Q2;Index;Gross Domestic Product;86.6;2019-06
+2019;Q3;Index;Net Taxes on Products;84.2;2019-09
+2019;Q4;Index;Non-Oil Activities;78.4;2019-12
+2020;Q1;Index;Government Activities;93.2;2020-03
+2020;Q1;Index;Gross Domestic Product;85.2;2020-03
+2020;Q2;Index;Oil Activities;95.4;2020-06
+2020;Q2;Index;Gross Value Added;81.3;2020-06
+2020;Q2;Index;Net Taxes on Products;70.4;2020-06
+2020;Q3;Index;Oil Activities;90.1;2020-09
+2020;Q3;Index;Non-Oil Activities;76.6;2020-09
+2020;Q3;Index;Net Taxes on Products;77.1;2020-09
+2020;Q4;Index;Net Taxes on Products;81.5;2020-12
+2020;Q4;Index;Gross Domestic Product;84.5;2020-12
+2021;Q2;Index;Net Taxes on Products;79.5;2021-06
+2021;Q3;Index;Oil Activities;99.6;2021-09
+2021;Q4;Index;Non-Oil Activities;86.2;2021-12
+2022;Q1;Index;Net Taxes on Products;92.5;2022-03
+2022;Q2;Index;Non-Oil Activities;92.5;2022-06
+2022;Q2;Index;Government Activities;98.8;2022-06
+2022;Q3;Index;Gross Value Added;101.6;2022-09
+2022;Q3;Index;Gross Domestic Product;101.2;2022-09
+2023;Q1;Index;Non-Oil Activities;98.1;2023-03
+2023;Q1;Index;Gross Value Added;101.6;2023-03
+2023;Q1;Index;Net Taxes on Products;99.6;2023-03
+2023;Q1;Index;Gross Domestic Product;101.5;2023-03
+2023;Q3;Index;Oil Activities;94.4;2023-09
+2023;Q3;Index;Gross Domestic Product;98.5;2023-09
+2023;Q4;Index;Gross Value Added;98.7;2023-12
+2023;Q4;Index;Net Taxes on Products;100.5;2023-12
+2023;Q4;Index;Gross Domestic Product;98.8;2023-12
+2024;Q1;Index;Oil Activities;95.6;2024-03
+2024;Q2;Index;Oil Activities;95.8;2024-06
+2024;Q4;Index;Gross Value Added;104.0;2024-12
+2025;Q1;Index;Non-Oil Activities;109.6;2025-03
+2025;Q3;Index;Net Taxes on Products;109.9;2025-09
+2025;Q4;Index;Non-Oil Activities;113.1;2025-12
+2025;Q4;Index;Government Activities;104.3;2025-12
+2025;Q4;Index;Gross Value Added;109.5;2025-12
+2010;Q1;Million of Saudi Riyals;Oil Activities;249329.0;2010-03
+2010;Q1;Million of Saudi Riyals;Net Taxes on Products;34746.0;2010-03
+2010;Q3;Million of Saudi Riyals;Government Activities;110760.0;2010-09
+2010;Q4;Million of Saudi Riyals;Oil Activities;295531.0;2010-12
+2010;Q4;Million of Saudi Riyals;Government Activities;114509.0;2010-12
+2010;Q4;Million of Saudi Riyals;Gross Value Added;705895.0;2010-12
+2011;Q1;Million of Saudi Riyals;Net Taxes on Products;38207.0;2011-03
+2011;Q2;Million of Saudi Riyals;Non-Oil Activities;321639.0;2011-06
+2011;Q2;Million of Saudi Riyals;Net Taxes on Products;46069.0;2011-06
+2011;Q3;Million of Saudi Riyals;Gross Value Added;742148.0;2011-09
+2011;Q4;Million of Saudi Riyals;Gross Value Added;759510.0;2011-12
+2012;Q1;Million of Saudi Riyals;Net Taxes on Products;51541.0;2012-03
+2012;Q2;Million of Saudi Riyals;Oil Activities;316985.0;2012-06
+2012;Q2;Million of Saudi Riyals;Government Activities;121175.0;2012-06
+2013;Q1;Million of Saudi Riyals;Non-Oil Activities;363692.0;2013-03
+2013;Q1;Million of Saudi Riyals;Gross Domestic Product;819716.0;2013-03
+2013;Q4;Million of Saudi Riyals;Oil Activities;307477.0;2013-12
+2013;Q4;Million of Saudi Riyals;Non-Oil Activities;380190.0;2013-12
+2014;Q1;Million of Saudi Riyals;Net Taxes on Products;54274.0;2014-03
+2014;Q2;Million of Saudi Riyals;Oil Activities;309776.0;2014-06
+2014;Q3;Million of Saudi Riyals;Government Activities;137242.0;2014-09
+2014;Q4;Million of Saudi Riyals;Gross Domestic Product;879244.0;2014-12
+2015;Q1;Million of Saudi Riyals;Oil Activities;317621.0;2015-03
+2015;Q1;Million of Saudi Riyals;Non-Oil Activities;412452.0;2015-03
+2015;Q1;Million of Saudi Riyals;Government Activities;140725.0;2015-03
+2015;Q2;Million of Saudi Riyals;Oil Activities;334105.0;2015-06
+2015;Q2;Million of Saudi Riyals;Net Taxes on Products;58101.0;2015-06
+2015;Q3;Million of Saudi Riyals;Oil Activities;325987.0;2015-09
+2015;Q4;Million of Saudi Riyals;Gross Domestic Product;921077.0;2015-12
+2016;Q2;Million of Saudi Riyals;Gross Value Added;886604.0;2016-06
+2016;Q3;Million of Saudi Riyals;Government Activities;136258.0;2016-09
+2016;Q3;Million of Saudi Riyals;Net Taxes on Products;39678.0;2016-09
+2016;Q4;Million of Saudi Riyals;Gross Value Added;891918.0;2016-12
+2016;Q4;Million of Saudi Riyals;Net Taxes on Products;47138.0;2016-12
+2017;Q1;Million of Saudi Riyals;Non-Oil Activities;428986.0;2017-03
+2017;Q2;Million of Saudi Riyals;Government Activities;135843.0;2017-06
+2017;Q2;Million of Saudi Riyals;Net Taxes on Products;46796.0;2017-06
+2017;Q3;Million of Saudi Riyals;Oil Activities;326155.0;2017-09
+2017;Q4;Million of Saudi Riyals;Net Taxes on Products;45812.0;2017-12
+2018;Q1;Million of Saudi Riyals;Oil Activities;331164.0;2018-03
+2018;Q2;Million of Saudi Riyals;Oil Activities;333711.0;2018-06
+2018;Q2;Million of Saudi Riyals;Government Activities;145152.0;2018-06
+2018;Q4;Million of Saudi Riyals;Gross Value Added;942847.0;2018-12
+2019;Q1;Million of Saudi Riyals;Gross Value Added;942575.0;2019-03
+2019;Q2;Million of Saudi Riyals;Oil Activities;322930.0;2019-06
+2019;Q2;Million of Saudi Riyals;Government Activities;146881.0;2019-06
+2019;Q3;Million of Saudi Riyals;Net Taxes on Products;49855.0;2019-09
+2020;Q1;Million of Saudi Riyals;Non-Oil Activities;465261.0;2020-03
+2020;Q2;Million of Saudi Riyals;Non-Oil Activities;431167.0;2020-06
+2020;Q2;Million of Saudi Riyals;Gross Value Added;880687.0;2020-06
+2020;Q3;Million of Saudi Riyals;Government Activities;145123.0;2020-09
+2020;Q3;Million of Saudi Riyals;Net Taxes on Products;45619.0;2020-09
+2020;Q4;Million of Saudi Riyals;Oil Activities;298736.0;2020-12
+2020;Q4;Million of Saudi Riyals;Net Taxes on Products;48245.0;2020-12
+2021;Q2;Million of Saudi Riyals;Net Taxes on Products;47040.0;2021-06
+2021;Q3;Million of Saudi Riyals;Gross Domestic Product;1030507.0;2021-09
+2021;Q4;Million of Saudi Riyals;Non-Oil Activities;524230.0;2021-12
+2021;Q4;Million of Saudi Riyals;Government Activities;148349.0;2021-12
+2021;Q4;Million of Saudi Riyals;Gross Domestic Product;1056156.0;2021-12
+2022;Q1;Million of Saudi Riyals;Gross Value Added;1045015.0;2022-03
+2022;Q1;Million of Saudi Riyals;Net Taxes on Products;54779.0;2022-03
+2022;Q2;Million of Saudi Riyals;Non-Oil Activities;562623.0;2022-06
+2022;Q3;Million of Saudi Riyals;Non-Oil Activities;578477.0;2022-09
+2022;Q3;Million of Saudi Riyals;Net Taxes on Products;55264.0;2022-09
+2022;Q3;Million of Saudi Riyals;Gross Domestic Product;1155685.0;2022-09
+2022;Q4;Million of Saudi Riyals;Net Taxes on Products;55966.0;2022-12
+2023;Q1;Million of Saudi Riyals;Oil Activities;345257.0;2023-03
+2023;Q1;Million of Saudi Riyals;Non-Oil Activities;596658.0;2023-03
+2023;Q2;Million of Saudi Riyals;Oil Activities;337315.0;2023-06
+2023;Q4;Million of Saudi Riyals;Government Activities;157859.0;2023-12
+2024;Q2;Million of Saudi Riyals;Oil Activities;306509.0;2024-06
+2024;Q3;Million of Saudi Riyals;Non-Oil Activities;647250.0;2024-09
+2025;Q2;Million of Saudi Riyals;Oil Activities;320590.0;2025-06
+2025;Q2;Million of Saudi Riyals;Government Activities;161109.0;2025-06
+2025;Q4;Million of Saudi Riyals;Non-Oil Activities;687843.0;2025-12
+2025;Q4;Million of Saudi Riyals;Gross Domestic Product;1251829.0;2025-12
+2010;Q2;Growth Rates Q-o-Q;Gross Value Added;1.92;2010-06
+2010;Q3;Growth Rates Q-o-Q;Non-Oil Activities;2.82;2010-09
+2010;Q4;Growth Rates Q-o-Q;Gross Value Added;9.25;2010-12
+2011;Q1;Growth Rates Q-o-Q;Government Activities;2.27;2011-03
+2011;Q1;Growth Rates Q-o-Q;Net Taxes on Products;-5.48;2011-03
+2011;Q2;Growth Rates Q-o-Q;Gross Value Added;2.95;2011-06
+2011;Q2;Growth Rates Q-o-Q;Net Taxes on Products;20.58;2011-06
+2011;Q2;Growth Rates Q-o-Q;Gross Domestic Product;3.07;2011-06
+2011;Q3;Growth Rates Q-o-Q;Net Taxes on Products;6.86;2011-09
+2011;Q4;Growth Rates Q-o-Q;Oil Activities;2.2;2011-12
+2011;Q4;Growth Rates Q-o-Q;Government Activities;3.77;2011-12
+2012;Q1;Growth Rates Q-o-Q;Non-Oil Activities;1.21;2012-03
+2012;Q1;Growth Rates Q-o-Q;Net Taxes on Products;12.74;2012-03
+2012;Q3;Growth Rates Q-o-Q;Oil Activities;-3.64;2012-09
+2012;Q4;Growth Rates Q-o-Q;Oil Activities;-2.78;2012-12
+2012;Q4;Growth Rates Q-o-Q;Gross Domestic Product;-1.13;2012-12
+2013;Q1;Growth Rates Q-o-Q;Government Activities;1.96;2013-03
+2013;Q2;Growth Rates Q-o-Q;Gross Domestic Product;2.17;2013-06
+2013;Q3;Growth Rates Q-o-Q;Oil Activities;4.57;2013-09
+2013;Q3;Growth Rates Q-o-Q;Government Activities;-4.41;2013-09
+2013;Q3;Growth Rates Q-o-Q;Gross Value Added;2.26;2013-09
+2013;Q4;Growth Rates Q-o-Q;Net Taxes on Products;0.71;2013-12
+2014;Q1;Growth Rates Q-o-Q;Gross Value Added;2.25;2014-03
+2014;Q2;Growth Rates Q-o-Q;Non-Oil Activities;1.24;2014-06
+2014;Q4;Growth Rates Q-o-Q;Government Activities;-1.1;2014-12
+2014;Q4;Growth Rates Q-o-Q;Gross Domestic Product;0.18;2014-12
+2015;Q1;Growth Rates Q-o-Q;Oil Activities;3.6;2015-03
+2015;Q1;Growth Rates Q-o-Q;Net Taxes on Products;-6.23;2015-03
+2015;Q2;Growth Rates Q-o-Q;Non-Oil Activities;-0.33;2015-06
+2015;Q3;Growth Rates Q-o-Q;Gross Value Added;-0.04;2015-09
+2015;Q4;Growth Rates Q-o-Q;Oil Activities;0.09;2015-12
+2016;Q1;Growth Rates Q-o-Q;Gross Domestic Product;1.23;2016-03
+2016;Q2;Growth Rates Q-o-Q;Oil Activities;-0.3;2016-06
+2016;Q4;Growth Rates Q-o-Q;Gross Domestic Product;0.7;2016-12
+2017;Q2;Growth Rates Q-o-Q;Gross Value Added;0.42;2017-06
+2017;Q3;Growth Rates Q-o-Q;Non-Oil Activities;1.64;2017-09
+2018;Q1;Growth Rates Q-o-Q;Gross Value Added;0.29;2018-03
+2018;Q2;Growth Rates Q-o-Q;Gross Value Added;1.2;2018-06
+2018;Q2;Growth Rates Q-o-Q;Gross Domestic Product;1.27;2018-06
+2018;Q3;Growth Rates Q-o-Q;Oil Activities;1.69;2018-09
+2018;Q3;Growth Rates Q-o-Q;Gross Domestic Product;0.41;2018-09
+2018;Q4;Growth Rates Q-o-Q;Non-Oil Activities;0.51;2018-12
+2018;Q4;Growth Rates Q-o-Q;Gross Domestic Product;1.4;2018-12
+2019;Q1;Growth Rates Q-o-Q;Gross Value Added;-0.03;2019-03
+2019;Q1;Growth Rates Q-o-Q;Net Taxes on Products;5.24;2019-03
+2019;Q1;Growth Rates Q-o-Q;Gross Domestic Product;0.16;2019-03
+2019;Q2;Growth Rates Q-o-Q;Oil Activities;-3.24;2019-06
+2019;Q2;Growth Rates Q-o-Q;Gross Domestic Product;-0.12;2019-06
+2019;Q3;Growth Rates Q-o-Q;Oil Activities;-2.23;2019-09
+2019;Q3;Growth Rates Q-o-Q;Net Taxes on Products;-0.04;2019-09
+2019;Q4;Growth Rates Q-o-Q;Oil Activities;3.19;2019-12
+2019;Q4;Growth Rates Q-o-Q;Net Taxes on Products;1.58;2019-12
+2019;Q4;Growth Rates Q-o-Q;Gross Domestic Product;1.14;2019-12
+2020;Q1;Growth Rates Q-o-Q;Government Activities;-0.98;2020-03
+2020;Q2;Growth Rates Q-o-Q;Non-Oil Activities;-7.33;2020-06
+2020;Q4;Growth Rates Q-o-Q;Non-Oil Activities;1.62;2020-12
+2020;Q4;Growth Rates Q-o-Q;Gross Value Added;1.83;2020-12
+2021;Q1;Growth Rates Q-o-Q;Oil Activities;-4.72;2021-03
+2021;Q1;Growth Rates Q-o-Q;Government Activities;0.89;2021-03
+2021;Q1;Growth Rates Q-o-Q;Net Taxes on Products;-1.01;2021-03
+2021;Q1;Growth Rates Q-o-Q;Gross Domestic Product;1.6;2021-03
+2021;Q2;Growth Rates Q-o-Q;Gross Value Added;1.07;2021-06
+2021;Q2;Growth Rates Q-o-Q;Gross Domestic Product;0.96;2021-06
+2021;Q3;Growth Rates Q-o-Q;Non-Oil Activities;2.67;2021-09
+2021;Q3;Growth Rates Q-o-Q;Net Taxes on Products;2.76;2021-09
+2021;Q4;Growth Rates Q-o-Q;Gross Value Added;2.38;2021-12
+2021;Q4;Growth Rates Q-o-Q;Gross Domestic Product;2.49;2021-12
+2022;Q1;Growth Rates Q-o-Q;Gross Value Added;3.95;2022-03
+2022;Q2;Growth Rates Q-o-Q;Non-Oil Activities;3.66;2022-06
+2022;Q2;Growth Rates Q-o-Q;Gross Domestic Product;2.63;2022-06
+2022;Q3;Growth Rates Q-o-Q;Oil Activities;2.85;2022-09
+2022;Q3;Growth Rates Q-o-Q;Government Activities;0.47;2022-09
+2022;Q4;Growth Rates Q-o-Q;Oil Activities;-2.77;2022-12
+2023;Q2;Growth Rates Q-o-Q;Non-Oil Activities;1.16;2023-06
+2023;Q3;Growth Rates Q-o-Q;Net Taxes on Products;2.92;2023-09
+2023;Q4;Growth Rates Q-o-Q;Oil Activities;-2.26;2023-12
+2024;Q1;Growth Rates Q-o-Q;Net Taxes on Products;2.3;2024-03
+2024;Q1;Growth Rates Q-o-Q;Gross Domestic Product;2.39;2024-03
+2024;Q2;Growth Rates Q-o-Q;Government Activities;2.24;2024-06
+2024;Q4;Growth Rates Q-o-Q;Gross Value Added;1.03;2024-12
+2025;Q2;Growth Rates Q-o-Q;Non-Oil Activities;1.21;2025-06
+2025;Q2;Growth Rates Q-o-Q;Government Activities;-1.03;2025-06
+2025;Q2;Growth Rates Q-o-Q;Net Taxes on Products;0.44;2025-06
+2025;Q4;Growth Rates Q-o-Q;Government Activities;-0.22;2025-12
+2025;Q4;Growth Rates Q-o-Q;Net Taxes on Products;0.84;2025-12
+2012;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.05;2012-06
+2012;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;1.03;2012-09
+2012;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.46;2012-12
+2013;Q1;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.49;2013-03
+2013;Q1;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.25;2013-03
+2013;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;1.2;2013-06
+2013;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.5;2013-06
+2013;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.57;2013-09
+2013;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-1.14;2013-12
+2014;Q1;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;1.23;2014-03
+2014;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.04;2014-06
+2015;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;3.0;2015-03
+2015;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;2.95;2015-03
+2015;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.63;2015-06
+2015;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-0.03;2015-09
+2015;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.1;2015-12
+2015;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.06;2015-12
+2016;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.22;2016-09
+2016;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.03;2016-09
+2016;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.56;2016-12
+2016;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.13;2016-12
+2017;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.6;2017-09
+2017;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.11;2017-09
+2017;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.16;2017-12
+2018;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.22;2018-03
+2018;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.35;2018-06
+2018;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.61;2018-12
+2019;Q1;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.05;2019-03
+2019;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.16;2019-09
+2019;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-0.56;2019-09
+2019;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.17;2019-12
+2020;Q1;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;-1.2;2020-03
+2020;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-2.15;2020-03
+2020;Q1;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.09;2020-03
+2020;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-4.66;2020-06
+2020;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-1.55;2020-09
+2020;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.15;2020-09
+2020;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;2.3;2020-09
+2020;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;2.53;2020-09
+2020;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.15;2020-12
+2021;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.17;2021-06
+2021;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;1.05;2021-06
+2021;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.96;2021-06
+2021;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.5;2021-09
+2022;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;2.6;2022-06
+2022;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.82;2022-09
+2022;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.02;2022-09
+2022;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.8;2022-12
+2022;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.98;2022-12
+2023;Q1;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.71;2023-03
+2023;Q1;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.01;2023-03
+2023;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.04;2023-03
+2023;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.56;2023-06
+2023;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-0.32;2023-06
+2023;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.81;2023-12
+2024;Q1;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.02;2024-03
+2024;Q1;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.13;2024-03
+2024;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.04;2024-06
+2024;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.11;2024-06
+2024;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.57;2024-09
+2025;Q1;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.07;2025-03
+2025;Q1;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.64;2025-03
+2025;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.81;2025-09
+2025;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.12;2025-09
+2010;Q1;Index;Non-Oil Activities;46.0;2010-03
+2010;Q1;Index;Gross Value Added;58.6;2010-03
+2010;Q1;Index;Gross Domestic Product;58.4;2010-03
+2010;Q3;Index;Oil Activities;77.0;2010-09
+2011;Q2;Index;Government Activities;77.1;2011-06
+2011;Q4;Index;Gross Domestic Product;69.9;2011-12
+2012;Q2;Index;Oil Activities;99.1;2012-06
+2012;Q2;Index;Gross Domestic Product;72.0;2012-06
+2012;Q3;Index;Gross Value Added;72.0;2012-09
+2012;Q3;Index;Net Taxes on Products;87.5;2012-09
+2012;Q4;Index;Government Activities;81.7;2012-12
+2013;Q1;Index;Government Activities;83.3;2013-03
+2013;Q2;Index;Non-Oil Activities;60.6;2013-06
+2013;Q2;Index;Government Activities;85.9;2013-06
+2013;Q3;Index;Net Taxes on Products;91.6;2013-09
+2014;Q1;Index;Government Activities;85.9;2014-03
+2014;Q2;Index;Gross Domestic Product;76.4;2014-06
+2014;Q3;Index;Non-Oil Activities;65.7;2014-09
+2014;Q3;Index;Gross Domestic Product;76.8;2014-09
+2015;Q1;Index;Gross Value Added;79.5;2015-03
+2015;Q2;Index;Net Taxes on Products;98.1;2015-06
+2015;Q2;Index;Gross Domestic Product;80.6;2015-06
+2015;Q3;Index;Non-Oil Activities;68.9;2015-09
+2015;Q3;Index;Gross Value Added;80.8;2015-09
+2015;Q3;Index;Gross Domestic Product;80.6;2015-09
+2015;Q4;Index;Oil Activities;102.0;2015-12
+2015;Q4;Index;Non-Oil Activities;69.3;2015-12
+2016;Q1;Index;Oil Activities;105.5;2016-03
+2016;Q2;Index;Government Activities;88.7;2016-06
+2016;Q3;Index;Gross Domestic Product;81.4;2016-09
+2016;Q4;Index;Non-Oil Activities;70.0;2016-12
+2016;Q4;Index;Government Activities;88.6;2016-12
+2016;Q4;Index;Gross Value Added;82.3;2016-12
+2017;Q1;Index;Oil Activities;103.9;2017-03
+2017;Q1;Index;Government Activities;87.4;2017-03
+2017;Q2;Index;Government Activities;87.4;2017-06
+2017;Q3;Index;Non-Oil Activities;72.4;2017-09
+2017;Q3;Index;Net Taxes on Products;66.7;2017-09
+2017;Q4;Index;Non-Oil Activities;73.4;2017-12
+2018;Q1;Index;Non-Oil Activities;73.1;2018-03
+2018;Q2;Index;Gross Value Added;85.5;2018-06
+2018;Q3;Index;Gross Domestic Product;85.4;2018-09
+2018;Q4;Index;Non-Oil Activities;75.0;2018-12
+2019;Q1;Index;Government Activities;93.2;2019-03
+2019;Q1;Index;Net Taxes on Products;82.2;2019-03
+2019;Q3;Index;Oil Activities;98.7;2019-09
+2019;Q4;Index;Gross Value Added;87.3;2019-12
+2019;Q4;Index;Gross Domestic Product;87.1;2019-12
+2020;Q2;Index;Non-Oil Activities;70.9;2020-06
+2021;Q1;Index;Oil Activities;89.0;2021-03
+2021;Q2;Index;Oil Activities;89.9;2021-06
+2021;Q2;Index;Gross Domestic Product;86.7;2021-06
+2021;Q3;Index;Government Activities;95.5;2021-09
+2021;Q4;Index;Government Activities;95.4;2021-12
+2021;Q4;Index;Net Taxes on Products;85.8;2021-12
+2022;Q2;Index;Oil Activities;109.7;2022-06
+2022;Q2;Index;Net Taxes on Products;93.1;2022-06
+2022;Q2;Index;Gross Domestic Product;98.9;2022-06
+2022;Q3;Index;Net Taxes on Products;93.3;2022-09
+2022;Q4;Index;Non-Oil Activities;97.0;2022-12
+2022;Q4;Index;Gross Value Added;101.9;2022-12
+2023;Q2;Index;Oil Activities;105.5;2023-06
+2023;Q2;Index;Non-Oil Activities;99.3;2023-06
+2023;Q2;Index;Gross Value Added;101.3;2023-06
+2023;Q3;Index;Non-Oil Activities;100.5;2023-09
+2023;Q3;Index;Net Taxes on Products;101.4;2023-09
+2024;Q1;Index;Non-Oil Activities;103.9;2024-03
+2024;Q1;Index;Net Taxes on Products;102.8;2024-03
+2024;Q1;Index;Gross Domestic Product;101.1;2024-03
+2024;Q2;Index;Gross Value Added;102.3;2024-06
+2024;Q3;Index;Oil Activities;95.6;2024-09
+2024;Q3;Index;Gross Value Added;102.9;2024-09
+2024;Q4;Index;Net Taxes on Products;107.0;2024-12
+2025;Q1;Index;Net Taxes on Products;107.0;2025-03
+2025;Q2;Index;Non-Oil Activities;110.9;2025-06
+2025;Q3;Index;Non-Oil Activities;111.3;2025-09
+2025;Q3;Index;Government Activities;104.5;2025-09
+2025;Q4;Index;Oil Activities;105.4;2025-12
+2025;Q4;Index;Net Taxes on Products;110.8;2025-12
+2010;Q1;Million of Saudi Riyals;Non-Oil Activities;279580.0;2010-03
+2010;Q1;Million of Saudi Riyals;Gross Value Added;634937.0;2010-03
+2010;Q2;Million of Saudi Riyals;Gross Value Added;647120.0;2010-06
+2010;Q2;Million of Saudi Riyals;Net Taxes on Products;38887.0;2010-06
+2010;Q2;Million of Saudi Riyals;Gross Domestic Product;680383.0;2010-06
+2010;Q3;Million of Saudi Riyals;Non-Oil Activities;291828.0;2010-09
+2011;Q1;Million of Saudi Riyals;Oil Activities;282675.0;2011-03
+2011;Q1;Million of Saudi Riyals;Non-Oil Activities;310726.0;2011-03
+2011;Q1;Million of Saudi Riyals;Gross Value Added;710015.0;2011-03
+2011;Q2;Million of Saudi Riyals;Government Activities;119830.0;2011-06
+2011;Q4;Million of Saudi Riyals;Non-Oil Activities;332434.0;2011-12
+2011;Q4;Million of Saudi Riyals;Government Activities;120860.0;2011-12
+2012;Q1;Million of Saudi Riyals;Government Activities;119890.0;2012-03
+2012;Q1;Million of Saudi Riyals;Gross Value Added;778453.0;2012-03
+2012;Q1;Million of Saudi Riyals;Gross Domestic Product;819035.0;2012-03
+2012;Q3;Million of Saudi Riyals;Oil Activities;305434.0;2012-09
+2012;Q3;Million of Saudi Riyals;Government Activities;131761.0;2012-09
+2012;Q3;Million of Saudi Riyals;Gross Value Added;779525.0;2012-09
+2012;Q4;Million of Saudi Riyals;Non-Oil Activities;352230.0;2012-12
+2012;Q4;Million of Saudi Riyals;Gross Domestic Product;810885.0;2012-12
+2013;Q1;Million of Saudi Riyals;Oil Activities;293662.0;2013-03
+2013;Q1;Million of Saudi Riyals;Net Taxes on Products;53171.0;2013-03
+2013;Q2;Million of Saudi Riyals;Non-Oil Activities;368241.0;2013-06
+2013;Q2;Million of Saudi Riyals;Government Activities;133596.0;2013-06
+2013;Q2;Million of Saudi Riyals;Gross Value Added;795497.0;2013-06
+2013;Q3;Million of Saudi Riyals;Oil Activities;315097.0;2013-09
+2013;Q3;Million of Saudi Riyals;Net Taxes on Products;54257.0;2013-09
+2013;Q4;Million of Saudi Riyals;Government Activities;133311.0;2013-12
+2014;Q1;Million of Saudi Riyals;Government Activities;133507.0;2014-03
+2014;Q3;Million of Saudi Riyals;Gross Value Added;833875.0;2014-09
+2014;Q3;Million of Saudi Riyals;Gross Domestic Product;877696.0;2014-09
+2014;Q4;Million of Saudi Riyals;Oil Activities;306593.0;2014-12
+2014;Q4;Million of Saudi Riyals;Government Activities;135733.0;2014-12
+2014;Q4;Million of Saudi Riyals;Gross Value Added;835772.0;2014-12
+2015;Q1;Million of Saudi Riyals;Gross Value Added;861035.0;2015-03
+2015;Q2;Million of Saudi Riyals;Government Activities;137640.0;2015-06
+2015;Q2;Million of Saudi Riyals;Gross Domestic Product;920840.0;2015-06
+2015;Q3;Million of Saudi Riyals;Non-Oil Activities;419069.0;2015-09
+2015;Q3;Million of Saudi Riyals;Net Taxes on Products;58558.0;2015-09
+2015;Q4;Million of Saudi Riyals;Non-Oil Activities;421256.0;2015-12
+2016;Q1;Million of Saudi Riyals;Non-Oil Activities;421452.0;2016-03
+2016;Q1;Million of Saudi Riyals;Government Activities;139882.0;2016-03
+2016;Q2;Million of Saudi Riyals;Oil Activities;336522.0;2016-06
+2016;Q2;Million of Saudi Riyals;Non-Oil Activities;423107.0;2016-06
+2016;Q3;Million of Saudi Riyals;Oil Activities;339478.0;2016-09
+2016;Q3;Million of Saudi Riyals;Non-Oil Activities;423245.0;2016-09
+2016;Q3;Million of Saudi Riyals;Gross Domestic Product;930071.0;2016-09
+2017;Q1;Million of Saudi Riyals;Oil Activities;332190.0;2017-03
+2017;Q1;Million of Saudi Riyals;Government Activities;135827.0;2017-03
+2017;Q1;Million of Saudi Riyals;Gross Domestic Product;932195.0;2017-03
+2017;Q3;Million of Saudi Riyals;Non-Oil Activities;440095.0;2017-09
+2017;Q3;Million of Saudi Riyals;Net Taxes on Products;39464.0;2017-09
+2017;Q3;Million of Saudi Riyals;Gross Domestic Product;947595.0;2017-09
+2018;Q1;Million of Saudi Riyals;Government Activities;142340.0;2018-03
+2018;Q1;Million of Saudi Riyals;Net Taxes on Products;42822.0;2018-03
+2019;Q1;Million of Saudi Riyals;Net Taxes on Products;48676.0;2019-03
+2019;Q2;Million of Saudi Riyals;Non-Oil Activities;473304.0;2019-06
+2019;Q2;Million of Saudi Riyals;Gross Value Added;940769.0;2019-06
+2019;Q2;Million of Saudi Riyals;Gross Domestic Product;989752.0;2019-06
+2019;Q3;Million of Saudi Riyals;Government Activities;146655.0;2019-09
+2019;Q4;Million of Saudi Riyals;Net Taxes on Products;50645.0;2019-12
+2019;Q4;Million of Saudi Riyals;Gross Domestic Product;995444.0;2019-12
+2020;Q4;Million of Saudi Riyals;Gross Value Added;917951.0;2020-12
+2021;Q1;Million of Saudi Riyals;Oil Activities;284641.0;2021-03
+2021;Q1;Million of Saudi Riyals;Net Taxes on Products;47756.0;2021-03
+2021;Q1;Million of Saudi Riyals;Gross Domestic Product;980961.0;2021-03
+2021;Q2;Million of Saudi Riyals;Oil Activities;287537.0;2021-06
+2021;Q3;Million of Saudi Riyals;Non-Oil Activities;511185.0;2021-09
+2021;Q4;Million of Saudi Riyals;Oil Activities;332698.0;2021-12
+2022;Q2;Million of Saudi Riyals;Gross Value Added;1073900.0;2022-06
+2022;Q4;Million of Saudi Riyals;Gross Value Added;1103430.0;2022-12
+2023;Q1;Million of Saudi Riyals;Government Activities;154825.0;2023-03
+2023;Q1;Million of Saudi Riyals;Gross Domestic Product;1160053.0;2023-03
+2023;Q2;Million of Saudi Riyals;Net Taxes on Products;58306.0;2023-06
+2023;Q2;Million of Saudi Riyals;Gross Domestic Product;1155682.0;2023-06
+2023;Q3;Million of Saudi Riyals;Government Activities;155506.0;2023-09
+2023;Q3;Million of Saudi Riyals;Gross Value Added;1065581.0;2023-09
+2023;Q3;Million of Saudi Riyals;Gross Domestic Product;1125440.0;2023-09
+2023;Q4;Million of Saudi Riyals;Net Taxes on Products;59505.0;2023-12
+2024;Q1;Million of Saudi Riyals;Non-Oil Activities;631428.0;2024-03
+2024;Q1;Million of Saudi Riyals;Gross Domestic Product;1155499.0;2024-03
+2024;Q2;Million of Saudi Riyals;Non-Oil Activities;640447.0;2024-06
+2024;Q2;Million of Saudi Riyals;Gross Domestic Product;1168362.0;2024-06
+2025;Q2;Million of Saudi Riyals;Gross Value Added;1155649.0;2025-06
+2025;Q2;Million of Saudi Riyals;Gross Domestic Product;1219247.0;2025-06
+2025;Q3;Million of Saudi Riyals;Non-Oil Activities;676468.0;2025-09
+2025;Q4;Million of Saudi Riyals;Government Activities;162072.0;2025-12
+2025;Q4;Million of Saudi Riyals;Net Taxes on Products;65609.0;2025-12
+2010;Q2;Growth Rates Q-o-Q;Non-Oil Activities;1.51;2010-06
+2010;Q2;Growth Rates Q-o-Q;Gross Domestic Product;1.99;2010-06
+2010;Q3;Growth Rates Q-o-Q;Net Taxes on Products;-2.34;2010-09
+2010;Q4;Growth Rates Q-o-Q;Oil Activities;19.93;2010-12
+2010;Q4;Growth Rates Q-o-Q;Gross Domestic Product;9.22;2010-12
+2011;Q1;Growth Rates Q-o-Q;Non-Oil Activities;5.88;2011-03
+2012;Q1;Growth Rates Q-o-Q;Oil Activities;4.13;2012-03
+2012;Q1;Growth Rates Q-o-Q;Government Activities;-0.8;2012-03
+2012;Q1;Growth Rates Q-o-Q;Gross Value Added;2.49;2012-03
+2012;Q2;Growth Rates Q-o-Q;Oil Activities;-0.42;2012-06
+2012;Q2;Growth Rates Q-o-Q;Government Activities;1.07;2012-06
+2012;Q2;Growth Rates Q-o-Q;Gross Value Added;0.36;2012-06
+2012;Q3;Growth Rates Q-o-Q;Non-Oil Activities;1.59;2012-09
+2013;Q2;Growth Rates Q-o-Q;Oil Activities;2.61;2013-06
+2013;Q4;Growth Rates Q-o-Q;Non-Oil Activities;1.46;2013-12
+2013;Q4;Growth Rates Q-o-Q;Gross Domestic Product;-0.03;2013-12
+2014;Q1;Growth Rates Q-o-Q;Oil Activities;2.75;2014-03
+2014;Q1;Growth Rates Q-o-Q;Gross Domestic Product;2.23;2014-03
+2014;Q3;Growth Rates Q-o-Q;Non-Oil Activities;1.39;2014-09
+2014;Q3;Growth Rates Q-o-Q;Net Taxes on Products;14.0;2014-09
+2015;Q1;Growth Rates Q-o-Q;Government Activities;3.68;2015-03
+2015;Q2;Growth Rates Q-o-Q;Government Activities;-2.19;2015-06
+2015;Q2;Growth Rates Q-o-Q;Net Taxes on Products;13.92;2015-06
+2015;Q2;Growth Rates Q-o-Q;Gross Domestic Product;1.73;2015-06
+2015;Q4;Growth Rates Q-o-Q;Gross Domestic Product;0.06;2015-12
+2016;Q1;Growth Rates Q-o-Q;Non-Oil Activities;0.05;2016-03
+2016;Q3;Growth Rates Q-o-Q;Gross Domestic Product;-0.11;2016-09
+2016;Q4;Growth Rates Q-o-Q;Oil Activities;0.26;2016-12
+2016;Q4;Growth Rates Q-o-Q;Government Activities;1.03;2016-12
+2017;Q1;Growth Rates Q-o-Q;Gross Value Added;-0.36;2017-03
+2017;Q2;Growth Rates Q-o-Q;Gross Domestic Product;0.53;2017-06
+2017;Q4;Growth Rates Q-o-Q;Gross Value Added;0.89;2017-12
+2018;Q1;Growth Rates Q-o-Q;Oil Activities;1.81;2018-03
+2018;Q1;Growth Rates Q-o-Q;Net Taxes on Products;-6.53;2018-03
+2018;Q1;Growth Rates Q-o-Q;Gross Domestic Product;0.22;2018-03
+2018;Q2;Growth Rates Q-o-Q;Government Activities;1.98;2018-06
+2018;Q3;Growth Rates Q-o-Q;Net Taxes on Products;-12.92;2018-09
+2018;Q4;Growth Rates Q-o-Q;Gross Value Added;1.31;2018-12
+2018;Q4;Growth Rates Q-o-Q;Net Taxes on Products;13.2;2018-12
+2019;Q1;Growth Rates Q-o-Q;Oil Activities;-3.9;2019-03
+2019;Q2;Growth Rates Q-o-Q;Gross Value Added;-0.19;2019-06
+2019;Q3;Growth Rates Q-o-Q;Gross Domestic Product;-0.56;2019-09
+2020;Q2;Growth Rates Q-o-Q;Oil Activities;-3.72;2020-06
+2020;Q2;Growth Rates Q-o-Q;Gross Value Added;-4.79;2020-06
+2020;Q3;Growth Rates Q-o-Q;Gross Value Added;2.36;2020-09
+2020;Q4;Growth Rates Q-o-Q;Net Taxes on Products;5.75;2020-12
+2021;Q2;Growth Rates Q-o-Q;Oil Activities;1.02;2021-06
+2021;Q2;Growth Rates Q-o-Q;Net Taxes on Products;-1.5;2021-06
+2021;Q3;Growth Rates Q-o-Q;Gross Value Added;4.1;2021-09
+2021;Q4;Growth Rates Q-o-Q;Oil Activities;4.4;2021-12
+2022;Q1;Growth Rates Q-o-Q;Gross Domestic Product;4.19;2022-03
+2022;Q2;Growth Rates Q-o-Q;Gross Value Added;2.76;2022-06
+2022;Q2;Growth Rates Q-o-Q;Net Taxes on Products;0.57;2022-06
+2022;Q4;Growth Rates Q-o-Q;Gross Domestic Product;0.34;2022-12
+2023;Q1;Growth Rates Q-o-Q;Government Activities;-0.25;2023-03
+2023;Q1;Growth Rates Q-o-Q;Gross Value Added;-0.22;2023-03
+2023;Q2;Growth Rates Q-o-Q;Oil Activities;-2.3;2023-06
+2023;Q3;Growth Rates Q-o-Q;Government Activities;1.25;2023-09
+2023;Q4;Growth Rates Q-o-Q;Government Activities;1.51;2023-12
+2024;Q1;Growth Rates Q-o-Q;Oil Activities;3.65;2024-03
+2024;Q1;Growth Rates Q-o-Q;Non-Oil Activities;1.75;2024-03
+2024;Q1;Growth Rates Q-o-Q;Government Activities;-0.26;2024-03
+2024;Q2;Growth Rates Q-o-Q;Non-Oil Activities;1.43;2024-06
+2024;Q2;Growth Rates Q-o-Q;Net Taxes on Products;-0.72;2024-06
+2024;Q2;Growth Rates Q-o-Q;Gross Domestic Product;1.11;2024-06
+2024;Q3;Growth Rates Q-o-Q;Oil Activities;-0.25;2024-09
+2024;Q3;Growth Rates Q-o-Q;Non-Oil Activities;1.06;2024-09
+2024;Q4;Growth Rates Q-o-Q;Gross Domestic Product;1.01;2024-12
+2025;Q2;Growth Rates Q-o-Q;Oil Activities;5.55;2025-06
+2025;Q2;Growth Rates Q-o-Q;Gross Domestic Product;1.9;2025-06
+2025;Q3;Growth Rates Q-o-Q;Oil Activities;3.26;2025-09
+2025;Q4;Growth Rates Q-o-Q;Gross Value Added;1.45;2025-12
+2025;Q4;Growth Rates Q-o-Q;Gross Domestic Product;1.41;2025-12
+2012;Q1;Contribution to Growth rate in GDP Q-o-Q;Government Activities;-0.08;2012-03
+2012;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.21;2012-06
+2012;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.45;2012-06
+2012;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.59;2012-09
+2012;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.05;2012-09
+2012;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.0;2012-12
+2013;Q1;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;1.31;2013-03
+2013;Q1;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.02;2013-03
+2013;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.4;2013-06
+2013;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;2.11;2013-06
+2013;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;2.11;2013-09
+2013;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;2.21;2013-09
+2013;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.58;2013-12
+2014;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.21;2014-09
+2014;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.09;2014-09
+2014;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.57;2014-09
+2014;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.05;2014-12
+2015;Q1;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.05;2015-03
+2015;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;2.08;2015-06
+2015;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.1;2015-06
+2015;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.09;2015-09
+2016;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.02;2016-06
+2016;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.14;2016-09
+2017;Q1;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.46;2017-03
+2017;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-0.35;2017-03
+2017;Q1;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.11;2017-03
+2017;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-0.46;2017-03
+2017;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.0;2017-06
+2017;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.96;2017-09
+2017;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.06;2017-12
+2017;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.88;2017-12
+2017;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.14;2017-12
+2018;Q1;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.36;2018-03
+2018;Q1;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.11;2018-03
+2018;Q1;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.06;2018-03
+2018;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.44;2018-09
+2018;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.48;2018-09
+2019;Q1;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;1.23;2019-03
+2019;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.07;2019-06
+2019;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-0.12;2019-06
+2019;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.03;2019-09
+2019;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.04;2019-12
+2020;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-5.07;2020-06
+2020;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.78;2020-12
+2020;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.93;2020-12
+2021;Q1;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;2.09;2021-03
+2021;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.6;2021-03
+2021;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.03;2021-06
+2021;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;2.28;2021-12
+2022;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;3.72;2022-03
+2022;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;1.42;2022-09
+2022;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.07;2022-09
+2022;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;2.31;2022-09
+2023;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.78;2023-06
+2023;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.31;2023-12
+2024;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.15;2024-06
+2024;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.06;2024-09
+2025;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.14;2025-06
+2025;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.02;2025-06
+2010;Q3;Index;Net Taxes on Products;64.2;2010-09
+2010;Q3;Index;Gross Domestic Product;59.5;2010-09
+2011;Q1;Index;Non-Oil Activities;51.1;2011-03
+2011;Q2;Index;Oil Activities;90.7;2011-06
+2011;Q3;Index;Oil Activities;93.5;2011-09
+2011;Q3;Index;Gross Domestic Product;68.4;2011-09
+2011;Q4;Index;Oil Activities;95.6;2011-12
+2011;Q4;Index;Government Activities;77.8;2011-12
+2012;Q1;Index;Net Taxes on Products;87.1;2012-03
+2012;Q3;Index;Non-Oil Activities;56.9;2012-09
+2012;Q4;Index;Oil Activities;92.8;2012-12
+2012;Q4;Index;Non-Oil Activities;57.9;2012-12
+2012;Q4;Index;Gross Value Added;71.1;2012-12
+2012;Q4;Index;Net Taxes on Products;87.5;2012-12
+2013;Q1;Index;Net Taxes on Products;89.8;2013-03
+2013;Q3;Index;Non-Oil Activities;61.6;2013-09
+2013;Q3;Index;Government Activities;82.2;2013-09
+2013;Q3;Index;Gross Domestic Product;74.9;2013-09
+2013;Q4;Index;Oil Activities;96.1;2013-12
+2013;Q4;Index;Gross Value Added;75.1;2013-12
+2014;Q1;Index;Non-Oil Activities;64.0;2014-03
+2014;Q1;Index;Gross Domestic Product;76.6;2014-03
+2014;Q2;Index;Oil Activities;96.9;2014-06
+2014;Q2;Index;Gross Value Added;76.6;2014-06
+2014;Q3;Index;Net Taxes on Products;98.4;2014-09
+2014;Q4;Index;Net Taxes on Products;91.9;2014-12
+2015;Q1;Index;Non-Oil Activities;67.8;2015-03
+2015;Q1;Index;Gross Domestic Product;79.2;2015-03
+2015;Q3;Index;Government Activities;89.2;2015-09
+2015;Q4;Index;Gross Value Added;80.8;2015-12
+2016;Q2;Index;Non-Oil Activities;69.6;2016-06
+2016;Q2;Index;Gross Domestic Product;81.5;2016-06
+2016;Q3;Index;Gross Value Added;81.9;2016-09
+2016;Q4;Index;Gross Domestic Product;82.0;2016-12
+2017;Q1;Index;Net Taxes on Products;70.5;2017-03
+2017;Q3;Index;Gross Domestic Product;82.9;2017-09
+2017;Q4;Index;Government Activities;91.0;2017-12
+2017;Q4;Index;Net Taxes on Products;77.4;2017-12
+2018;Q1;Index;Gross Domestic Product;84.0;2018-03
+2018;Q2;Index;Oil Activities;104.3;2018-06
+2018;Q2;Index;Gross Domestic Product;85.0;2018-06
+2018;Q3;Index;Net Taxes on Products;69.0;2018-09
+2018;Q4;Index;Gross Value Added;87.0;2018-12
+2019;Q1;Index;Gross Domestic Product;86.7;2019-03
+2019;Q2;Index;Oil Activities;101.0;2019-06
+2019;Q3;Index;Non-Oil Activities;78.1;2019-09
+2019;Q4;Index;Government Activities;94.1;2019-12
+2019;Q4;Index;Net Taxes on Products;85.5;2019-12
+2020;Q1;Index;Non-Oil Activities;76.5;2020-03
+2020;Q1;Index;Gross Value Added;85.4;2020-03
+2020;Q1;Index;Net Taxes on Products;82.9;2020-03
+2020;Q2;Index;Government Activities;94.1;2020-06
+2020;Q2;Index;Gross Domestic Product;80.9;2020-06
+2020;Q3;Index;Government Activities;93.4;2020-09
+2020;Q3;Index;Gross Value Added;83.2;2020-09
+2020;Q3;Index;Gross Domestic Product;82.9;2020-09
+2020;Q4;Index;Oil Activities;93.4;2020-12
+2020;Q4;Index;Gross Value Added;84.7;2020-12
+2021;Q1;Index;Government Activities;94.0;2021-03
+2021;Q1;Index;Net Taxes on Products;80.7;2021-03
+2021;Q4;Index;Gross Value Added;92.8;2021-12
+2022;Q1;Index;Non-Oil Activities;89.3;2022-03
+2022;Q1;Index;Gross Value Added;96.5;2022-03
+2022;Q1;Index;Gross Domestic Product;96.3;2022-03
+2022;Q2;Index;Gross Value Added;99.1;2022-06
+2022;Q4;Index;Net Taxes on Products;94.5;2022-12
+2022;Q4;Index;Gross Domestic Product;101.5;2022-12
+2023;Q2;Index;Net Taxes on Products;98.5;2023-06
+2023;Q3;Index;Gross Value Added;98.4;2023-09
+2023;Q4;Index;Government Activities;101.6;2023-12
+2024;Q1;Index;Government Activities;101.3;2024-03
+2024;Q2;Index;Non-Oil Activities;105.3;2024-06
+2024;Q2;Index;Gross Domestic Product;102.3;2024-06
+2024;Q4;Index;Non-Oil Activities;108.3;2024-12
+2025;Q1;Index;Gross Value Added;104.6;2025-03
+2025;Q2;Index;Government Activities;103.6;2025-06
+2010;Q3;Million of Saudi Riyals;Net Taxes on Products;37978.0;2010-09
+2010;Q3;Million of Saudi Riyals;Gross Domestic Product;679255.0;2010-09
+2011;Q1;Million of Saudi Riyals;Gross Domestic Product;745909.0;2011-03
+2011;Q2;Million of Saudi Riyals;Gross Value Added;730973.0;2011-06
+2011;Q2;Million of Saudi Riyals;Gross Domestic Product;768835.0;2011-06
+2011;Q3;Million of Saudi Riyals;Gross Domestic Product;780920.0;2011-09
+2012;Q2;Million of Saudi Riyals;Non-Oil Activities;340578.0;2012-06
+2012;Q2;Million of Saudi Riyals;Gross Domestic Product;822395.0;2012-06
+2013;Q2;Million of Saudi Riyals;Net Taxes on Products;56944.0;2013-06
+2013;Q3;Million of Saudi Riyals;Government Activities;127709.0;2013-09
+2013;Q4;Million of Saudi Riyals;Gross Value Added;813252.0;2013-12
+2013;Q4;Million of Saudi Riyals;Gross Domestic Product;855741.0;2013-12
+2014;Q1;Million of Saudi Riyals;Non-Oil Activities;388973.0;2014-03
+2014;Q1;Million of Saudi Riyals;Gross Value Added;831584.0;2014-03
+2014;Q1;Million of Saudi Riyals;Gross Domestic Product;874856.0;2014-03
+2014;Q2;Million of Saudi Riyals;Non-Oil Activities;393790.0;2014-06
+2014;Q2;Million of Saudi Riyals;Net Taxes on Products;51085.0;2014-06
+2014;Q2;Million of Saudi Riyals;Gross Domestic Product;872687.0;2014-06
+2014;Q3;Million of Saudi Riyals;Oil Activities;307430.0;2014-09
+2014;Q3;Million of Saudi Riyals;Net Taxes on Products;58237.0;2014-09
+2014;Q4;Million of Saudi Riyals;Non-Oil Activities;403742.0;2014-12
+2015;Q1;Million of Saudi Riyals;Gross Domestic Product;905172.0;2015-03
+2015;Q3;Million of Saudi Riyals;Gross Domestic Product;920533.0;2015-09
+2015;Q4;Million of Saudi Riyals;Gross Value Added;875699.0;2015-12
+2016;Q1;Million of Saudi Riyals;Oil Activities;337524.0;2016-03
+2016;Q1;Million of Saudi Riyals;Gross Value Added;887650.0;2016-03
+2016;Q1;Million of Saudi Riyals;Net Taxes on Products;48844.0;2016-03
+2016;Q2;Million of Saudi Riyals;Gross Domestic Product;931118.0;2016-06
+2016;Q4;Million of Saudi Riyals;Non-Oil Activities;425626.0;2016-12
+2017;Q1;Million of Saudi Riyals;Net Taxes on Products;41728.0;2017-03
+2017;Q2;Million of Saudi Riyals;Gross Value Added;892524.0;2017-06
+2017;Q3;Million of Saudi Riyals;Government Activities;140216.0;2017-09
+2017;Q3;Million of Saudi Riyals;Gross Value Added;904008.0;2017-09
+2017;Q4;Million of Saudi Riyals;Gross Domestic Product;957271.0;2017-12
+2018;Q2;Million of Saudi Riyals;Non-Oil Activities;449806.0;2018-06
+2018;Q2;Million of Saudi Riyals;Gross Domestic Product;971629.0;2018-06
+2018;Q3;Million of Saudi Riyals;Gross Value Added;930621.0;2018-09
+2018;Q4;Million of Saudi Riyals;Oil Activities;347299.0;2018-12
+2018;Q4;Million of Saudi Riyals;Government Activities;145268.0;2018-12
+2018;Q4;Million of Saudi Riyals;Gross Domestic Product;989329.0;2018-12
+2019;Q3;Million of Saudi Riyals;Oil Activities;315729.0;2019-09
+2019;Q3;Million of Saudi Riyals;Non-Oil Activities;474788.0;2019-09
+2019;Q4;Million of Saudi Riyals;Non-Oil Activities;476376.0;2019-12
+2019;Q4;Million of Saudi Riyals;Government Activities;146333.0;2019-12
+2019;Q4;Million of Saudi Riyals;Gross Value Added;945916.0;2019-12
+2020;Q1;Million of Saudi Riyals;Gross Value Added;924977.0;2020-03
+2020;Q1;Million of Saudi Riyals;Gross Domestic Product;973145.0;2020-03
+2020;Q3;Million of Saudi Riyals;Non-Oil Activities;465448.0;2020-09
+2020;Q4;Million of Saudi Riyals;Non-Oil Activities;472995.0;2020-12
+2020;Q4;Million of Saudi Riyals;Gross Domestic Product;965512.0;2020-12
+2021;Q1;Million of Saudi Riyals;Government Activities;146184.0;2021-03
+2021;Q2;Million of Saudi Riyals;Gross Value Added;943248.0;2021-06
+2021;Q4;Million of Saudi Riyals;Gross Value Added;1005300.0;2021-12
+2022;Q1;Million of Saudi Riyals;Government Activities;152061.0;2022-03
+2022;Q2;Million of Saudi Riyals;Government Activities;153513.0;2022-06
+2022;Q2;Million of Saudi Riyals;Net Taxes on Products;55090.0;2022-06
+2022;Q2;Million of Saudi Riyals;Gross Domestic Product;1129342.0;2022-06
+2022;Q3;Million of Saudi Riyals;Government Activities;154228.0;2022-09
+2022;Q4;Million of Saudi Riyals;Non-Oil Activities;589639.0;2022-12
+2022;Q4;Million of Saudi Riyals;Government Activities;155220.0;2022-12
+2023;Q1;Million of Saudi Riyals;Gross Value Added;1100968.0;2023-03
+2023;Q2;Million of Saudi Riyals;Non-Oil Activities;603573.0;2023-06
+2023;Q3;Million of Saudi Riyals;Non-Oil Activities;610972.0;2023-09
+2023;Q4;Million of Saudi Riyals;Non-Oil Activities;620581.0;2023-12
+2024;Q1;Million of Saudi Riyals;Oil Activities;305752.0;2024-03
+2024;Q1;Million of Saudi Riyals;Net Taxes on Products;60874.0;2024-03
+2024;Q2;Million of Saudi Riyals;Net Taxes on Products;60437.0;2024-06
+2024;Q3;Million of Saudi Riyals;Oil Activities;305756.0;2024-09
+2024;Q4;Million of Saudi Riyals;Non-Oil Activities;658671.0;2024-12
+2024;Q4;Million of Saudi Riyals;Government Activities;162453.0;2024-12
+2024;Q4;Million of Saudi Riyals;Gross Value Added;1126060.0;2024-12
+2024;Q4;Million of Saudi Riyals;Gross Domestic Product;1189412.0;2024-12
+2025;Q1;Million of Saudi Riyals;Oil Activities;303743.0;2025-03
+2025;Q2;Million of Saudi Riyals;Net Taxes on Products;63624.0;2025-06
+2025;Q3;Million of Saudi Riyals;Government Activities;162433.0;2025-09
+2025;Q3;Million of Saudi Riyals;Gross Value Added;1169303.0;2025-09
+2025;Q3;Million of Saudi Riyals;Net Taxes on Products;65065.0;2025-09
+2025;Q3;Million of Saudi Riyals;Gross Domestic Product;1234365.0;2025-09
+2025;Q4;Million of Saudi Riyals;Gross Value Added;1186235.0;2025-12
+2010;Q3;Growth Rates Q-o-Q;Oil Activities;-4.06;2010-09
+2010;Q3;Growth Rates Q-o-Q;Gross Domestic Product;-0.17;2010-09
+2011;Q1;Growth Rates Q-o-Q;Oil Activities;-4.35;2011-03
+2011;Q2;Growth Rates Q-o-Q;Non-Oil Activities;3.51;2011-06
+2011;Q2;Growth Rates Q-o-Q;Government Activities;2.32;2011-06
+2011;Q3;Growth Rates Q-o-Q;Gross Domestic Product;1.57;2011-09
+2011;Q4;Growth Rates Q-o-Q;Net Taxes on Products;-7.13;2011-12
+2011;Q4;Growth Rates Q-o-Q;Gross Domestic Product;2.26;2011-12
+2012;Q3;Growth Rates Q-o-Q;Government Activities;8.74;2012-09
+2012;Q3;Growth Rates Q-o-Q;Gross Value Added;-0.22;2012-09
+2012;Q3;Growth Rates Q-o-Q;Net Taxes on Products;-5.91;2012-09
+2012;Q3;Growth Rates Q-o-Q;Gross Domestic Product;-0.27;2012-09
+2012;Q4;Growth Rates Q-o-Q;Non-Oil Activities;1.81;2012-12
+2013;Q1;Growth Rates Q-o-Q;Gross Domestic Product;1.09;2013-03
+2013;Q2;Growth Rates Q-o-Q;Non-Oil Activities;1.25;2013-06
+2013;Q2;Growth Rates Q-o-Q;Net Taxes on Products;7.1;2013-06
+2013;Q3;Growth Rates Q-o-Q;Gross Domestic Product;2.21;2013-09
+2013;Q4;Growth Rates Q-o-Q;Government Activities;4.39;2013-12
+2014;Q1;Growth Rates Q-o-Q;Non-Oil Activities;2.31;2014-03
+2014;Q2;Growth Rates Q-o-Q;Government Activities;1.09;2014-06
+2014;Q2;Growth Rates Q-o-Q;Gross Value Added;-0.21;2014-06
+2014;Q3;Growth Rates Q-o-Q;Government Activities;1.68;2014-09
+2014;Q3;Growth Rates Q-o-Q;Gross Domestic Product;0.57;2014-09
+2015;Q2;Growth Rates Q-o-Q;Oil Activities;5.19;2015-06
+2015;Q4;Growth Rates Q-o-Q;Government Activities;-1.36;2015-12
+2016;Q1;Growth Rates Q-o-Q;Government Activities;2.31;2016-03
+2016;Q2;Growth Rates Q-o-Q;Non-Oil Activities;0.39;2016-06
+2016;Q2;Growth Rates Q-o-Q;Government Activities;-1.42;2016-06
+2016;Q3;Growth Rates Q-o-Q;Non-Oil Activities;0.03;2016-09
+2016;Q3;Growth Rates Q-o-Q;Net Taxes on Products;-16.94;2016-09
+2016;Q4;Growth Rates Q-o-Q;Non-Oil Activities;0.56;2016-12
+2016;Q4;Growth Rates Q-o-Q;Gross Value Added;0.57;2016-12
+2017;Q1;Growth Rates Q-o-Q;Government Activities;-1.33;2017-03
+2017;Q1;Growth Rates Q-o-Q;Net Taxes on Products;-11.48;2017-03
+2017;Q3;Growth Rates Q-o-Q;Government Activities;3.22;2017-09
+2017;Q3;Growth Rates Q-o-Q;Net Taxes on Products;-15.67;2017-09
+2017;Q3;Growth Rates Q-o-Q;Gross Domestic Product;1.11;2017-09
+2017;Q4;Growth Rates Q-o-Q;Non-Oil Activities;1.33;2017-12
+2017;Q4;Growth Rates Q-o-Q;Net Taxes on Products;16.08;2017-12
+2017;Q4;Growth Rates Q-o-Q;Gross Domestic Product;1.02;2017-12
+2019;Q3;Growth Rates Q-o-Q;Gross Value Added;-0.57;2019-09
+2020;Q1;Growth Rates Q-o-Q;Non-Oil Activities;-2.33;2020-03
+2020;Q1;Growth Rates Q-o-Q;Net Taxes on Products;-3.13;2020-03
+2020;Q3;Growth Rates Q-o-Q;Government Activities;-0.77;2020-09
+2020;Q3;Growth Rates Q-o-Q;Net Taxes on Products;9.38;2020-09
+2021;Q1;Growth Rates Q-o-Q;Non-Oil Activities;3.43;2021-03
+2021;Q1;Growth Rates Q-o-Q;Gross Value Added;1.67;2021-03
+2021;Q2;Growth Rates Q-o-Q;Non-Oil Activities;1.77;2021-06
+2021;Q3;Growth Rates Q-o-Q;Oil Activities;10.83;2021-09
+2021;Q3;Growth Rates Q-o-Q;Government Activities;2.61;2021-09
+2021;Q3;Growth Rates Q-o-Q;Gross Domestic Product;4.05;2021-09
+2022;Q1;Growth Rates Q-o-Q;Non-Oil Activities;3.53;2022-03
+2022;Q1;Growth Rates Q-o-Q;Government Activities;2.5;2022-03
+2022;Q2;Growth Rates Q-o-Q;Oil Activities;2.15;2022-06
+2022;Q2;Growth Rates Q-o-Q;Government Activities;0.96;2022-06
+2022;Q3;Growth Rates Q-o-Q;Non-Oil Activities;2.82;2022-09
+2022;Q3;Growth Rates Q-o-Q;Gross Value Added;2.46;2022-09
+2022;Q3;Growth Rates Q-o-Q;Net Taxes on Products;0.31;2022-09
+2022;Q3;Growth Rates Q-o-Q;Gross Domestic Product;2.33;2022-09
+2022;Q4;Growth Rates Q-o-Q;Net Taxes on Products;1.27;2022-12
+2023;Q2;Growth Rates Q-o-Q;Government Activities;-0.8;2023-06
+2023;Q2;Growth Rates Q-o-Q;Net Taxes on Products;-1.15;2023-06
+2023;Q3;Growth Rates Q-o-Q;Oil Activities;-10.53;2023-09
+2023;Q3;Growth Rates Q-o-Q;Gross Domestic Product;-2.62;2023-09
+2023;Q4;Growth Rates Q-o-Q;Gross Domestic Product;0.27;2023-12
+2024;Q1;Growth Rates Q-o-Q;Gross Value Added;2.39;2024-03
+2024;Q2;Growth Rates Q-o-Q;Gross Value Added;1.22;2024-06
+2024;Q3;Growth Rates Q-o-Q;Gross Value Added;0.6;2024-09
+2024;Q3;Growth Rates Q-o-Q;Gross Domestic Product;0.78;2024-09
+2024;Q4;Growth Rates Q-o-Q;Non-Oil Activities;1.76;2024-12
+2025;Q1;Growth Rates Q-o-Q;Non-Oil Activities;1.12;2025-03
+2025;Q1;Growth Rates Q-o-Q;Government Activities;0.2;2025-03
+2025;Q2;Growth Rates Q-o-Q;Gross Value Added;1.99;2025-06
+2025;Q3;Growth Rates Q-o-Q;Non-Oil Activities;0.35;2025-09
+2025;Q3;Growth Rates Q-o-Q;Net Taxes on Products;2.26;2025-09
+2012;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.13;2012-06
+2012;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.41;2012-06
+2012;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-1.84;2012-09
+2012;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-0.22;2012-09
+2012;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-0.27;2012-09
+2012;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-1.35;2012-12
+2012;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-1.13;2012-12
+2012;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-1.13;2012-12
+2013;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;2.25;2013-09
+2013;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-0.03;2013-12
+2014;Q1;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.99;2014-03
+2014;Q1;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.02;2014-03
+2014;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;2.24;2014-03
+2014;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;2.23;2014-03
+2014;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.52;2014-06
+2014;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.14;2014-06
+2014;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-0.21;2014-06
+2014;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.33;2014-09
+2014;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.14;2014-12
+2015;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;-0.15;2015-06
+2015;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.73;2015-06
+2015;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-1.01;2015-09
+2015;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-0.04;2015-09
+2015;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.18;2015-12
+2015;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.04;2015-12
+2016;Q1;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.11;2016-03
+2016;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.35;2016-03
+2016;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.08;2016-06
+2016;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.26;2016-06
+2016;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.21;2016-09
+2017;Q1;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.55;2017-03
+2017;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.55;2017-06
+2017;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.16;2017-09
+2017;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.78;2017-12
+2018;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.41;2018-09
+2018;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.3;2018-12
+2018;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.4;2018-12
+2019;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-0.03;2019-03
+2019;Q1;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.19;2019-03
+2019;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-1.03;2019-06
+2019;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.24;2019-06
+2019;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-0.19;2019-06
+2019;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.96;2019-12
+2019;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.09;2019-12
+2019;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.14;2019-12
+2020;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-2.24;2020-03
+2020;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;-3.78;2020-06
+2020;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.17;2020-06
+2020;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.23;2020-09
+2020;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.95;2020-12
+2021;Q1;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.0;2021-03
+2021;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.06;2021-06
+2021;Q3;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;1.84;2021-09
+2021;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;1.6;2021-09
+2021;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;3.94;2021-09
+2021;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.11;2021-09
+2021;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.8;2021-12
+2022;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;4.19;2022-03
+2022;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;2.33;2022-09
+2022;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.27;2022-12
+2022;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.34;2022-12
+2023;Q1;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.25;2023-03
+2023;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.1;2023-06
+2023;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.05;2023-06
+2023;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-0.38;2023-06
+2023;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.6;2023-09
+2023;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.69;2023-12
+2023;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.2;2023-12
+2023;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.27;2023-12
+2024;Q1;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;1.22;2024-03
+2024;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.07;2024-12
+2024;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.97;2024-12
+2024;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.07;2024-12
+2024;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.01;2024-12
+2025;Q1;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.0;2025-03
+2025;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.2;2025-09
+2025;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.24;2025-09
+2025;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.94;2025-12
+2010;Q1;Index;Government Activities;69.1;2010-03
+2010;Q1;Index;Net Taxes on Products;58.7;2010-03
+2010;Q2;Index;Gross Value Added;59.7;2010-06
+2010;Q2;Index;Net Taxes on Products;65.7;2010-06
+2010;Q2;Index;Gross Domestic Product;59.6;2010-06
+2010;Q3;Index;Gross Value Added;59.7;2010-09
+2011;Q1;Index;Gross Value Added;65.5;2011-03
+2011;Q2;Index;Gross Value Added;67.5;2011-06
+2011;Q2;Index;Gross Domestic Product;67.3;2011-06
+2011;Q3;Index;Non-Oil Activities;53.6;2011-09
+2012;Q1;Index;Oil Activities;99.5;2012-03
+2012;Q1;Index;Gross Domestic Product;71.7;2012-03
+2012;Q2;Index;Non-Oil Activities;56.0;2012-06
+2012;Q2;Index;Government Activities;78.0;2012-06
+2012;Q2;Index;Net Taxes on Products;93.0;2012-06
+2012;Q4;Index;Gross Domestic Product;71.0;2012-12
+2013;Q1;Index;Oil Activities;91.8;2013-03
+2013;Q4;Index;Net Taxes on Products;92.3;2013-12
+2014;Q1;Index;Oil Activities;98.8;2014-03
+2014;Q2;Index;Government Activities;86.8;2014-06
+2014;Q3;Index;Oil Activities;96.1;2014-09
+2014;Q3;Index;Gross Value Added;77.0;2014-09
+2014;Q4;Index;Government Activities;87.3;2014-12
+2015;Q1;Index;Government Activities;90.5;2015-03
+2015;Q1;Index;Net Taxes on Products;86.1;2015-03
+2015;Q2;Index;Oil Activities;104.5;2015-06
+2015;Q2;Index;Gross Value Added;80.8;2015-06
+2015;Q3;Index;Oil Activities;101.9;2015-09
+2015;Q4;Index;Government Activities;88.0;2015-12
+2016;Q1;Index;Non-Oil Activities;69.3;2016-03
+2016;Q1;Index;Gross Value Added;81.9;2016-03
+2016;Q1;Index;Gross Domestic Product;81.6;2016-03
+2016;Q3;Index;Non-Oil Activities;69.6;2016-09
+2017;Q1;Index;Gross Domestic Product;81.6;2017-03
+2017;Q2;Index;Gross Domestic Product;82.0;2017-06
+2017;Q4;Index;Gross Value Added;84.2;2017-12
+2018;Q1;Index;Oil Activities;103.5;2018-03
+2018;Q1;Index;Government Activities;91.6;2018-03
+2018;Q2;Index;Net Taxes on Products;79.3;2018-06
+2018;Q4;Index;Government Activities;93.5;2018-12
+2018;Q4;Index;Gross Domestic Product;86.6;2018-12
+2019;Q1;Index;Oil Activities;104.4;2019-03
+2019;Q1;Index;Non-Oil Activities;76.9;2019-03
+2019;Q1;Index;Gross Value Added;87.0;2019-03
+2019;Q2;Index;Non-Oil Activities;77.9;2019-06
+2019;Q3;Index;Government Activities;94.3;2019-09
+2019;Q4;Index;Oil Activities;101.9;2019-12
+2020;Q4;Index;Government Activities;93.2;2020-12
+2021;Q2;Index;Non-Oil Activities;81.9;2021-06
+2021;Q2;Index;Gross Value Added;87.1;2021-06
+2021;Q3;Index;Gross Value Added;90.7;2021-09
+2021;Q3;Index;Gross Domestic Product;90.2;2021-09
+2022;Q1;Index;Oil Activities;107.4;2022-03
+2022;Q3;Index;Oil Activities;112.9;2022-09
+2022;Q3;Index;Non-Oil Activities;95.2;2022-09
+2022;Q3;Index;Government Activities;99.2;2022-09
+2023;Q2;Index;Gross Domestic Product;101.2;2023-06
+2024;Q1;Index;Gross Value Added;101.1;2024-03
+2024;Q2;Index;Net Taxes on Products;102.1;2024-06
+2024;Q3;Index;Government Activities;104.0;2024-09
+2024;Q3;Index;Net Taxes on Products;106.2;2024-09
+2024;Q4;Index;Oil Activities;95.3;2024-12
+2025;Q1;Index;Oil Activities;95.0;2025-03
+2025;Q2;Index;Gross Value Added;106.7;2025-06
+2025;Q2;Index;Net Taxes on Products;107.5;2025-06
+2025;Q3;Index;Gross Domestic Product;108.0;2025-09
+2025;Q4;Index;Gross Domestic Product;109.6;2025-12
+2010;Q1;Million of Saudi Riyals;Government Activities;107357.0;2010-03
+2010;Q1;Million of Saudi Riyals;Gross Domestic Product;667114.0;2010-03
+2010;Q2;Million of Saudi Riyals;Non-Oil Activities;283815.0;2010-06
+2010;Q2;Million of Saudi Riyals;Government Activities;107077.0;2010-06
+2010;Q3;Million of Saudi Riyals;Oil Activities;246418.0;2010-09
+2010;Q3;Million of Saudi Riyals;Gross Value Added;646157.0;2010-09
+2011;Q2;Million of Saudi Riyals;Oil Activities;290112.0;2011-06
+2011;Q3;Million of Saudi Riyals;Oil Activities;299139.0;2011-09
+2011;Q3;Million of Saudi Riyals;Non-Oil Activities;325820.0;2011-09
+2011;Q3;Million of Saudi Riyals;Net Taxes on Products;49228.0;2011-09
+2012;Q1;Million of Saudi Riyals;Oil Activities;318325.0;2012-03
+2012;Q1;Million of Saudi Riyals;Non-Oil Activities;336463.0;2012-03
+2012;Q2;Million of Saudi Riyals;Gross Value Added;781279.0;2012-06
+2012;Q3;Million of Saudi Riyals;Non-Oil Activities;345980.0;2012-09
+2012;Q4;Million of Saudi Riyals;Net Taxes on Products;51824.0;2012-12
+2013;Q2;Million of Saudi Riyals;Oil Activities;301327.0;2013-06
+2013;Q2;Million of Saudi Riyals;Gross Domestic Product;837473.0;2013-06
+2013;Q3;Million of Saudi Riyals;Non-Oil Activities;374721.0;2013-09
+2014;Q1;Million of Saudi Riyals;Oil Activities;315943.0;2014-03
+2014;Q4;Million of Saudi Riyals;Net Taxes on Products;54390.0;2014-12
+2015;Q1;Million of Saudi Riyals;Net Taxes on Products;51001.0;2015-03
+2015;Q2;Million of Saudi Riyals;Gross Value Added;875176.0;2015-06
+2015;Q3;Million of Saudi Riyals;Government Activities;138613.0;2015-09
+2015;Q3;Million of Saudi Riyals;Gross Value Added;874826.0;2015-09
+2016;Q1;Million of Saudi Riyals;Gross Domestic Product;932383.0;2016-03
+2016;Q2;Million of Saudi Riyals;Government Activities;137889.0;2016-06
+2016;Q2;Million of Saudi Riyals;Net Taxes on Products;47772.0;2016-06
+2016;Q4;Million of Saudi Riyals;Government Activities;137663.0;2016-12
+2016;Q4;Million of Saudi Riyals;Gross Domestic Product;936547.0;2016-12
+2017;Q2;Million of Saudi Riyals;Oil Activities;330300.0;2017-06
+2017;Q2;Million of Saudi Riyals;Gross Domestic Product;937151.0;2017-06
+2017;Q4;Million of Saudi Riyals;Oil Activities;325263.0;2017-12
+2017;Q4;Million of Saudi Riyals;Government Activities;141427.0;2017-12
+2018;Q1;Million of Saudi Riyals;Gross Value Added;914703.0;2018-03
+2018;Q1;Million of Saudi Riyals;Gross Domestic Product;959422.0;2018-03
+2018;Q2;Million of Saudi Riyals;Gross Value Added;925717.0;2018-06
+2018;Q3;Million of Saudi Riyals;Oil Activities;339350.0;2018-09
+2018;Q3;Million of Saudi Riyals;Government Activities;141975.0;2018-09
+2018;Q3;Million of Saudi Riyals;Gross Domestic Product;975625.0;2018-09
+2018;Q4;Million of Saudi Riyals;Non-Oil Activities;456056.0;2018-12
+2019;Q1;Million of Saudi Riyals;Oil Activities;333751.0;2019-03
+2019;Q1;Million of Saudi Riyals;Government Activities;144803.0;2019-03
+2019;Q1;Million of Saudi Riyals;Gross Domestic Product;990924.0;2019-03
+2019;Q3;Million of Saudi Riyals;Gross Value Added;935380.0;2019-09
+2020;Q1;Million of Saudi Riyals;Oil Activities;316769.0;2020-03
+2020;Q2;Million of Saudi Riyals;Oil Activities;304970.0;2020-06
+2020;Q2;Million of Saudi Riyals;Government Activities;146256.0;2020-06
+2020;Q2;Million of Saudi Riyals;Gross Domestic Product;923804.0;2020-06
+2020;Q3;Million of Saudi Riyals;Gross Domestic Product;947207.0;2020-09
+2020;Q4;Million of Saudi Riyals;Government Activities;144901.0;2020-12
+2021;Q2;Million of Saudi Riyals;Non-Oil Activities;497892.0;2021-06
+2021;Q2;Million of Saudi Riyals;Government Activities;144712.0;2021-06
+2021;Q2;Million of Saudi Riyals;Gross Domestic Product;990419.0;2021-06
+2021;Q3;Million of Saudi Riyals;Net Taxes on Products;48339.0;2021-09
+2023;Q1;Million of Saudi Riyals;Net Taxes on Products;58986.0;2023-03
+2023;Q2;Million of Saudi Riyals;Government Activities;153582.0;2023-06
+2023;Q2;Million of Saudi Riyals;Gross Value Added;1097236.0;2023-06
+2023;Q3;Million of Saudi Riyals;Net Taxes on Products;60008.0;2023-09
+2023;Q4;Million of Saudi Riyals;Oil Activities;294978.0;2023-12
+2023;Q4;Million of Saudi Riyals;Gross Domestic Product;1128518.0;2023-12
+2024;Q1;Million of Saudi Riyals;Government Activities;157444.0;2024-03
+2024;Q1;Million of Saudi Riyals;Gross Value Added;1094625.0;2024-03
+2024;Q2;Million of Saudi Riyals;Government Activities;160970.0;2024-06
+2024;Q3;Million of Saudi Riyals;Government Activities;161619.0;2024-09
+2024;Q3;Million of Saudi Riyals;Net Taxes on Products;62843.0;2024-09
+2024;Q4;Million of Saudi Riyals;Oil Activities;304936.0;2024-12
+2025;Q1;Million of Saudi Riyals;Non-Oil Activities;666020.0;2025-03
+2025;Q1;Million of Saudi Riyals;Government Activities;162779.0;2025-03
+2025;Q1;Million of Saudi Riyals;Net Taxes on Products;63346.0;2025-03
+2025;Q1;Million of Saudi Riyals;Gross Domestic Product;1196499.0;2025-03
+2025;Q4;Million of Saudi Riyals;Oil Activities;337054.0;2025-12
+2010;Q2;Growth Rates Q-o-Q;Government Activities;-0.26;2010-06
+2010;Q2;Growth Rates Q-o-Q;Net Taxes on Products;11.92;2010-06
+2010;Q4;Growth Rates Q-o-Q;Net Taxes on Products;6.43;2010-12
+2011;Q1;Growth Rates Q-o-Q;Gross Value Added;0.58;2011-03
+2011;Q1;Growth Rates Q-o-Q;Gross Domestic Product;0.54;2011-03
+2011;Q2;Growth Rates Q-o-Q;Oil Activities;2.63;2011-06
+2011;Q3;Growth Rates Q-o-Q;Non-Oil Activities;1.3;2011-09
+2011;Q3;Growth Rates Q-o-Q;Government Activities;-2.8;2011-09
+2011;Q4;Growth Rates Q-o-Q;Gross Value Added;2.34;2011-12
+2012;Q1;Growth Rates Q-o-Q;Gross Domestic Product;2.56;2012-03
+2012;Q2;Growth Rates Q-o-Q;Non-Oil Activities;1.22;2012-06
+2012;Q4;Growth Rates Q-o-Q;Gross Value Added;-1.14;2012-12
+2013;Q1;Growth Rates Q-o-Q;Oil Activities;-1.11;2013-03
+2013;Q1;Growth Rates Q-o-Q;Non-Oil Activities;3.25;2013-03
+2013;Q1;Growth Rates Q-o-Q;Gross Value Added;1.08;2013-03
+2013;Q3;Growth Rates Q-o-Q;Non-Oil Activities;1.76;2013-09
+2013;Q3;Growth Rates Q-o-Q;Net Taxes on Products;-4.72;2013-09
+2013;Q4;Growth Rates Q-o-Q;Oil Activities;-2.42;2013-12
+2013;Q4;Growth Rates Q-o-Q;Gross Value Added;-0.03;2013-12
+2014;Q1;Growth Rates Q-o-Q;Government Activities;0.15;2014-03
+2014;Q1;Growth Rates Q-o-Q;Net Taxes on Products;-0.67;2014-03
+2014;Q2;Growth Rates Q-o-Q;Oil Activities;-1.95;2014-06
+2014;Q2;Growth Rates Q-o-Q;Gross Domestic Product;-0.25;2014-06
+2014;Q3;Growth Rates Q-o-Q;Gross Value Added;0.48;2014-09
+2014;Q4;Growth Rates Q-o-Q;Oil Activities;-0.27;2014-12
+2014;Q4;Growth Rates Q-o-Q;Non-Oil Activities;1.12;2014-12
+2015;Q1;Growth Rates Q-o-Q;Gross Value Added;3.02;2015-03
+2015;Q1;Growth Rates Q-o-Q;Gross Domestic Product;2.95;2015-03
+2015;Q2;Growth Rates Q-o-Q;Gross Value Added;1.64;2015-06
+2015;Q3;Growth Rates Q-o-Q;Oil Activities;-2.43;2015-09
+2015;Q3;Growth Rates Q-o-Q;Net Taxes on Products;0.79;2015-09
+2015;Q3;Growth Rates Q-o-Q;Gross Domestic Product;-0.03;2015-09
+2015;Q4;Growth Rates Q-o-Q;Net Taxes on Products;-4.88;2015-12
+2016;Q1;Growth Rates Q-o-Q;Net Taxes on Products;-12.31;2016-03
+2016;Q2;Growth Rates Q-o-Q;Net Taxes on Products;-2.2;2016-06
+2016;Q3;Growth Rates Q-o-Q;Oil Activities;0.88;2016-09
+2016;Q3;Growth Rates Q-o-Q;Gross Value Added;0.03;2016-09
+2016;Q4;Growth Rates Q-o-Q;Net Taxes on Products;18.8;2016-12
+2017;Q1;Growth Rates Q-o-Q;Oil Activities;-2.4;2017-03
+2017;Q1;Growth Rates Q-o-Q;Non-Oil Activities;0.79;2017-03
+2017;Q1;Growth Rates Q-o-Q;Gross Domestic Product;-0.46;2017-03
+2017;Q2;Growth Rates Q-o-Q;Oil Activities;-0.57;2017-06
+2017;Q2;Growth Rates Q-o-Q;Non-Oil Activities;0.94;2017-06
+2017;Q3;Growth Rates Q-o-Q;Oil Activities;-1.25;2017-09
+2017;Q3;Growth Rates Q-o-Q;Gross Value Added;1.29;2017-09
+2017;Q4;Growth Rates Q-o-Q;Oil Activities;-0.27;2017-12
+2018;Q2;Growth Rates Q-o-Q;Oil Activities;0.77;2018-06
+2018;Q2;Growth Rates Q-o-Q;Net Taxes on Products;9.58;2018-06
+2018;Q3;Growth Rates Q-o-Q;Government Activities;-2.19;2018-09
+2018;Q3;Growth Rates Q-o-Q;Gross Value Added;0.53;2018-09
+2018;Q4;Growth Rates Q-o-Q;Government Activities;2.32;2018-12
+2019;Q1;Growth Rates Q-o-Q;Government Activities;-0.32;2019-03
+2019;Q2;Growth Rates Q-o-Q;Government Activities;1.43;2019-06
+2019;Q3;Growth Rates Q-o-Q;Non-Oil Activities;0.31;2019-09
+2019;Q4;Growth Rates Q-o-Q;Non-Oil Activities;0.33;2019-12
+2019;Q4;Growth Rates Q-o-Q;Government Activities;-0.22;2019-12
+2019;Q4;Growth Rates Q-o-Q;Gross Value Added;1.13;2019-12
+2020;Q1;Growth Rates Q-o-Q;Oil Activities;-2.77;2020-03
+2020;Q1;Growth Rates Q-o-Q;Gross Domestic Product;-2.24;2020-03
+2020;Q2;Growth Rates Q-o-Q;Government Activities;0.94;2020-06
+2020;Q2;Growth Rates Q-o-Q;Net Taxes on Products;-14.98;2020-06
+2020;Q2;Growth Rates Q-o-Q;Gross Domestic Product;-5.07;2020-06
+2020;Q4;Growth Rates Q-o-Q;Oil Activities;3.62;2020-12
+2020;Q4;Growth Rates Q-o-Q;Government Activities;-0.15;2020-12
+2020;Q4;Growth Rates Q-o-Q;Gross Domestic Product;1.93;2020-12
+2021;Q2;Growth Rates Q-o-Q;Government Activities;-1.01;2021-06
+2021;Q4;Growth Rates Q-o-Q;Net Taxes on Products;5.12;2021-12
+2022;Q1;Growth Rates Q-o-Q;Oil Activities;3.28;2022-03
+2022;Q1;Growth Rates Q-o-Q;Net Taxes on Products;7.81;2022-03
+2022;Q4;Growth Rates Q-o-Q;Non-Oil Activities;1.93;2022-12
+2023;Q1;Growth Rates Q-o-Q;Oil Activities;-1.64;2023-03
+2023;Q1;Growth Rates Q-o-Q;Gross Domestic Product;0.04;2023-03
+2023;Q2;Growth Rates Q-o-Q;Gross Value Added;-0.34;2023-06
+2023;Q3;Growth Rates Q-o-Q;Non-Oil Activities;1.23;2023-09
+2023;Q3;Growth Rates Q-o-Q;Gross Value Added;-2.88;2023-09
+2023;Q4;Growth Rates Q-o-Q;Gross Value Added;0.33;2023-12
+2024;Q4;Growth Rates Q-o-Q;Government Activities;0.52;2024-12
+2025;Q1;Growth Rates Q-o-Q;Gross Value Added;0.63;2025-03
+2025;Q1;Growth Rates Q-o-Q;Net Taxes on Products;-0.01;2025-03
+2025;Q3;Growth Rates Q-o-Q;Government Activities;0.82;2025-09
+2025;Q3;Growth Rates Q-o-Q;Gross Domestic Product;1.24;2025-09
+2025;Q4;Growth Rates Q-o-Q;Non-Oil Activities;1.68;2025-12
+2012;Q1;Contribution to Growth rate in GDP Q-o-Q;Oil Activities;2.1;2012-03
+2012;Q1;Contribution to Growth rate in GDP Q-o-Q;Net Taxes on Products;0.09;2012-03
+2012;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.36;2012-06
+2012;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.68;2012-12
+2013;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.09;2013-03
+2013;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.05;2013-06
+2014;Q1;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.0;2014-03
+2014;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.6;2014-09
+2014;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.48;2014-09
+2014;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.48;2014-12
+2015;Q1;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;1.48;2015-03
+2015;Q1;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;1.04;2015-03
+2015;Q1;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.49;2015-03
+2015;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.87;2015-09
+2015;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.24;2015-12
+2016;Q1;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.92;2016-03
+2016;Q1;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.33;2016-03
+2016;Q1;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.12;2016-03
+2016;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.23;2016-03
+2016;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.22;2016-06
+2016;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.02;2016-09
+2016;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;-0.11;2016-09
+2016;Q4;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.07;2016-12
+2016;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.18;2016-12
+2016;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.7;2016-12
+2017;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.42;2017-06
+2017;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.11;2017-06
+2017;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.53;2017-06
+2018;Q1;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;-0.18;2018-03
+2018;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.08;2018-06
+2018;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.11;2018-09
+2018;Q4;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.28;2018-12
+2018;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.1;2018-12
+2019;Q1;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-1.21;2019-03
+2019;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.16;2019-03
+2019;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-0.56;2019-09
+2019;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.05;2019-12
+2020;Q1;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.78;2020-03
+2020;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-1.04;2020-06
+2020;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.41;2020-06
+2020;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;4.0;2020-09
+2020;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.03;2020-12
+2021;Q1;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;-0.64;2021-03
+2021;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.2;2021-06
+2021;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;4.05;2021-09
+2021;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.02;2021-12
+2022;Q1;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;1.43;2022-03
+2022;Q1;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;1.81;2022-03
+2022;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;0.62;2022-06
+2022;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;1.83;2022-06
+2022;Q2;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.03;2022-06
+2022;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;2.63;2022-06
+2023;Q1;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.51;2023-03
+2023;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-0.21;2023-03
+2023;Q3;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;-2.75;2023-09
+2023;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.13;2023-09
+2023;Q4;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;-0.04;2023-12
+2024;Q1;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;1.06;2024-03
+2024;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;2.26;2024-03
+2024;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;2.39;2024-03
+2024;Q2;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.31;2024-06
+2024;Q3;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.58;2024-09
+2024;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.06;2024-09
+2025;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;0.59;2025-03
+2025;Q1;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;0.6;2025-03
+2025;Q2;Contribution to Growth rate in GDP Y-o-Y;Oil Activities;1.33;2025-06
+2025;Q2;Contribution to Growth rate in GDP Y-o-Y;Non-Oil Activities;0.69;2025-06
+2025;Q2;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.9;2025-06
+2025;Q3;Contribution to Growth rate in GDP Y-o-Y;Government Activities;0.11;2025-09
+2025;Q3;Contribution to Growth rate in GDP Y-o-Y;Net Taxes on Products;0.12;2025-09
+2025;Q4;Contribution to Growth rate in GDP Y-o-Y;Government Activities;-0.03;2025-12
+2025;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Value Added;1.37;2025-12
+2025;Q4;Contribution to Growth rate in GDP Y-o-Y;Gross Domestic Product;1.41;2025-12

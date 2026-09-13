@@ -1,0 +1,8 @@
+Study,Method,Dimensions,Context,ML used?,Automation
+Vetrò et al. (2016),Rule-based metadata audit,"8 (traceability, currency, accuracy, completeness, compliance, understandability, expiration, metadata accuracy)",Italian regional OGD; 18 datasets,No,Partial (metadata only)
+Karamanou et al. (2022),Statistical + Isolation Forest,Accuracy via IF anomaly detection; descriptive completeness and currency,Greek traffic OGD; single domain,Yes (IF),Full pipeline (notebook)
+Samakit et al. (2023),Rule-based system (QUALYST),12 (Vetrò extension + portal-level metrics),Thai national OGD portal,No,Full dashboard system
+Máchová & Lněnička (2017),Composite scoring (portal-level),"6 portal criteria (richness, openness, currency, granularity, machine-readability, format)",National-level cross-portal,No,Partial (semi-automated)
+Reiche & Höfig (2013),Metadata metrics pipeline,"Metadata only (completeness, conformance, retrievability)","US, UK, German federal portals",No,Full (metadata layer)
+Alogaiel & Alrwais (2023),MAAR framework (rule-based),"4 (metadata, accessibility, accuracy, reusability)",Pre-redesign Saudi OGD; multi-sector,No,Partial (rule scoring)
+This dissertation,Triangulated ML ensemble (IF + DBSCAN + k-means) + rule-based dimensions,"4 computable (completeness, consistency, accuracy, timeliness) + uniqueness; 6 NDMO Domain 3 specifications",Post-redesign Saudi OGD; 4 sectors; 31 datasets,Yes (IF + DBSCAN + k-means),Full pipeline + Streamlit dashboard

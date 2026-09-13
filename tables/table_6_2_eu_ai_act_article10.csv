@@ -1,0 +1,5 @@
+Article 10(3) criterion,Operationalisation in this audit,Portfolio result,Verdict
+Complete,Completeness ≥ 95% (NDMO Spec 3.2),23 of 31 datasets (74.2%); portfolio aggregate 90.64%,Not met at portfolio level; met by the majority of datasets
+Free of errors,Consistency ≥ 95% (Spec 3.4) and IF anomaly rate ≤ 5% (Spec 3.1),"Consistency: 26 of 31 (83.9%). Accuracy: portfolio mean 4.95% clears the ceiling, but dataset-level Spec 3.1 pass rates range from 0% (Energy, Health) to 20% (Education, Investment)",Not met at dataset level
+Sufficiently representative,Not computable from a file in isolation; requires a declared population frame,Not assessed,Not assessable by a content-layer instrument
+Relevant,Not computable without a declared downstream task,Not assessed,Not assessable by a content-layer instrument

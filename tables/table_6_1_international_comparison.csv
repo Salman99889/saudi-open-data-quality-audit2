@@ -1,0 +1,7 @@
+Study,Completeness,Consistency,Accuracy proxy,ML used?,Dimensions
+Vetrò et al. (2016) — Italian OGD,Not reported at dataset level,Not reported,Cursory only,No,8
+Karamanou et al. (2022) — Greek traffic OGD,Descriptive only,Not reported,IF anomaly detection applied,Yes (IF),3
+Alogaiel & Alrwais (2023) — pre-redesign Saudi,Rule-based scoring,Not isolated,Rule-based scoring,No,4 (MAAR)
+This dissertation — post-2023 Saudi OGD,90.48% (SD 22.42),88.66% (SD 28.78),4.95% IF anomaly rate,Yes (IF+DBSCAN+k-means),4 + uniqueness
+Neumaier et al. (2016) — 261 international portals,Metadata completeness only; 78% of resource URLs resolved,Not reported,Not applicable (metadata layer),No,5 metadata dimensions
+data.europa.eu MQA (2026) — all EU member-state catalogues,"Metadata completeness, scored to a 405-point scale",DCAT-AP conformance,Not applicable (metadata layer),No,"5 (findability, accessibility, interoperability, reusability, contextuality)"
